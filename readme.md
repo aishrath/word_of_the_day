@@ -1,3 +1,5 @@
 # Word of the Day
 
-rife
+conciliatory
+
+Definition: 
