@@ -1,5 +1,5 @@
 # Word of the Day
 
-onus
+brash
 
 Definition: 
