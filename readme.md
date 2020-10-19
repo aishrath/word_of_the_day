@@ -1,5 +1,9 @@
-# Word of the Day
 
-| Word  | Definition  |
-|---|---|
-|  plea | a request made in an urgent and emotional manner  |
+        # Word of the Day
+
+
+        | Word  | Definition  |
+        |---|---|
+        | miser
+ | a person who hoards wealth and spends as little money as possible  |
+        
