@@ -1,5 +1,5 @@
 # Word of the Day
 
-imminent
+plea
 
-Definition: 
+Definition: a request made in an urgent and emotional manner
