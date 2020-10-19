@@ -1,5 +1,5 @@
 # Word of the Day
 
-conciliatory
+onus
 
 Definition: 
