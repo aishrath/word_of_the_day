@@ -1,9 +1,4 @@
+# Word of the Day
 
-        # Word of the Day
-
-
-        | Word  | Definition  |
-        |---|---|
-        | miser
- | a person who hoards wealth and spends as little money as possible  |
-        
+| Word  | Definition  |        |---|---|        | prudish
+ | having or revealing a tendency to be easily shocked by matters relating to sex or nudity; excessively concerned with sexual propriety  |       
