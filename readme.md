@@ -1,3 +1,3 @@
 # Word of the Day
 
-underbid
+rife
