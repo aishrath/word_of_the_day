@@ -1,6 +1,6 @@
 # Word of the Day
 
-| Word  | Definition  |
+|Word|Definition|
 |---|---|
-| connoisseur
- | an expert judge in matters of taste  |
+|admonitory
+|giving or conveying a warning or reprimand|
