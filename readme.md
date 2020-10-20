@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|macabre|disturbing and horrifying because of involvement with or depiction of death and injury|
+|prim|stiffly formal and respectable; feeling or showing disapproval of anything regarded as improper|
