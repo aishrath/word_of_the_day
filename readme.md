@@ -1,5 +1,6 @@
 # Word of the Day
 
 |Word|Definition|
-|---|---||quixotic
-|exceedingly idealistic; unrealistic and impractical|
+|---|---|
+|florid
+|having a red or flushed complexion|
