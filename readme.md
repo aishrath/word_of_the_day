@@ -2,5 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|florid
-|having a red or flushed complexion|
+|macabre|disturbing and horrifying because of involvement with or depiction of death and injury|
