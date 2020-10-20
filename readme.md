@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|prim|stiffly formal and respectable; feeling or showing disapproval of anything regarded as improper|
+|discourse|written or spoken communication or debate|
