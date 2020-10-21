@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|discourse|written or spoken communication or debate|
+|laudatory|(of speech or writing) expressing praise and commendation|
