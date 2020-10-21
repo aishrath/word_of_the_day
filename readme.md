@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|laudatory|(of speech or writing) expressing praise and commendation|
+|obsequious|obedient or attentive to an excessive or servile degree|
