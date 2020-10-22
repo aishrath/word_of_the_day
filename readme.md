@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|exorbitant|(of a price or amount charged) unreasonably high|
+|rescind|revoke, cancel, or repeal (a law, order, or agreement)|
