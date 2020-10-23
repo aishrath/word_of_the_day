@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rescind|revoke, cancel, or repeal (a law, order, or agreement)|
+|quack|the characteristic harsh sound made by a duck|
