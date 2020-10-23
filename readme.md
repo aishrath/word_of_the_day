@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|quack|the characteristic harsh sound made by a duck|
+|intersperse|scatter among or between other things; place here and there|
