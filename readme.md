@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|intersperse|scatter among or between other things; place here and there|
+|clinch|confirm or settle (a contract or bargain)|
