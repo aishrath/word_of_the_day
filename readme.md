@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|clinch|confirm or settle (a contract or bargain)|
+|paean|a song of praise or triumph|
