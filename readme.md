@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|procrastination|the action of delaying or postponing something|
+|constrict|make narrower, especially by encircling pressure|
