@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|paean|a song of praise or triumph|
+|procrastination|the action of delaying or postponing something|
