@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|constrict|make narrower, especially by encircling pressure|
+|jocular|fond of or characterized by joking; humorous or playful|
