@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|jocular|fond of or characterized by joking; humorous or playful|
+|morbid|characterized by or appealing to an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease|
