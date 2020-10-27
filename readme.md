@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|morbid|characterized by or appealing to an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease|
+|inferno|a large fire that is dangerously out of control|
