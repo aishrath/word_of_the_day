@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|inferno|a large fire that is dangerously out of control|
+|ineptitude|lack of skill or ability|
