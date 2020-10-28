@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ineptitude|lack of skill or ability|
+|illicit|forbidden by law, rules, or custom|
