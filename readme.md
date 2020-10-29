@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|illicit|forbidden by law, rules, or custom|
+|contiguous|sharing a common border; touching|
