@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cogitate|think deeply about something; meditate or reflect|
+|avid|having or showing a keen interest in or enthusiasm for something|
