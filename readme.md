@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|contiguous|sharing a common border; touching|
+|cogitate|think deeply about something; meditate or reflect|
