@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ossify|turn into bone or bony tissue|
+|indulge|allow oneself to enjoy the pleasure of|
