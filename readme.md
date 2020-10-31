@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|avid|having or showing a keen interest in or enthusiasm for something|
+|ossify|turn into bone or bony tissue|
