@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|coddle|treat in an indulgent or overprotective way|
+|pristine|in its original condition; unspoiled|
