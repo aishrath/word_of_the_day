@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|indulge|allow oneself to enjoy the pleasure of|
+|coddle|treat in an indulgent or overprotective way|
