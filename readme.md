@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|aspirational|having or characterized by aspirations to achieve social prestige and material success|
+|baldly|without any extra detail or explanation; plainly; bluntly|
