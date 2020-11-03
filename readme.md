@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|CHEVRE|cheese made with goat's milk.|
+|reinform|to inform, impart knowledge to again.|
