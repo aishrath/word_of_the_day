@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ineptitude|lack of skill or ability|
+|CHEVRE|cheese made with goat's milk.|
