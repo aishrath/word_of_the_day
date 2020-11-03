@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|reinform|to inform, impart knowledge to again.|
+|aspirational|having or characterized by aspirations to achieve social prestige and material success|
