@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|diacritic|a sign, such as an accent or cedilla, which when written above or below a letter indicates a difference in pronunciation from the same letter when unmarked or differently marked.|
+|arrack|an alcoholic liquor typically distilled from the sap of the coconut palm or from rice.|
