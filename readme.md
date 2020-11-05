@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|arrack|an alcoholic liquor typically distilled from the sap of the coconut palm or from rice.|
+|erode|(of wind, water, or other natural agents) gradually wear away (soil, rock, or land)|
