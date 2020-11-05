@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|erode|(of wind, water, or other natural agents) gradually wear away (soil, rock, or land)|
+|squat|crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs|
