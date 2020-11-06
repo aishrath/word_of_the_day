@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hypotensive|lowering the blood pressure|
+|mishap|an unlucky accident|
