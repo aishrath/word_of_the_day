@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|beachgoer|a person who goes to the beach|
+|hypotensive|lowering the blood pressure|
