@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|enunciate|say or pronounce clearly|
+|sagacity|the quality of being sagacious|
