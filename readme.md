@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mishap|an unlucky accident|
+|enunciate|say or pronounce clearly|
