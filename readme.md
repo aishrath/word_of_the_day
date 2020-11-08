@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rosary|(in the roman catholic church) a form of devotion in which five (or fifteen) decades of hail marys are repeated, each decade preceded by an our father and followed by a glory be|
+|decreasing|becoming smaller or fewer in size, amount, intensity, or degree|
