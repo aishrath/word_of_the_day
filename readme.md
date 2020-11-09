@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|myocardium|the muscular tissue of the heart.|
+|coach|a horse-drawn carriage, especially a closed one.|
