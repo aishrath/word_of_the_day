@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|coach|a horse-drawn carriage, especially a closed one.|
+|evacuate|remove (someone) from a place of danger to a safer place|
