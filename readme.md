@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pollee|a person who is questioned in an opinion poll|
+|superego|the part of a person's mind that acts as a self-critical conscience, reflecting social standards learned from parents and teachers|
