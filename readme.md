@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|superego|the part of a person's mind that acts as a self-critical conscience, reflecting social standards learned from parents and teachers|
+|birthroot|any of several plants of the genus trillium having roots used medicinally, especially to treat haemorrhage or induce uterine contractions; specifically the red trillium, t. erectum.|
