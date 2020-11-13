@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|transcriptional|relating to the transcription of something|
+|stiffen|make or become stiff or rigid|
