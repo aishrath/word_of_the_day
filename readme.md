@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|plumbery|a plumber's workshop. now chiefly historical.|
+|acrasin|any of a group of substances secreted by the cells of some slime moulds which act as an attractant for them and causes their aggregation.|
