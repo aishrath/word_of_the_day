@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|acrasin|any of a group of substances secreted by the cells of some slime moulds which act as an attractant for them and causes their aggregation.|
+|whir|(especially of a machine or a bird's wings) make a low, continuous, regular sound|
