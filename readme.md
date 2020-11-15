@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|whir|(especially of a machine or a bird's wings) make a low, continuous, regular sound|
+|lied|a type of german song, especially of the romantic period, typically for solo voice with piano accompaniment.|
