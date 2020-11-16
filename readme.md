@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|lied|a type of german song, especially of the romantic period, typically for solo voice with piano accompaniment.|
+|courtesy|the showing of politeness in one's attitude and behavior toward others|
