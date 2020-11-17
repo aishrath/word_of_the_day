@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ole|old|
+|planaria|a genus of planarians found in freshwater and moist terrestrial habitats.|
