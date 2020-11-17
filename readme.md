@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|planaria|a genus of planarians found in freshwater and moist terrestrial habitats.|
+|centurion|the commander of a century in the ancient roman army.|
