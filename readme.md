@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|centurion|the commander of a century in the ancient roman army.|
+|scabbard|a sheath for the blade of a sword or dagger, typically made of leather or metal|
