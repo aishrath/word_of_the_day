@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|scabbard|a sheath for the blade of a sword or dagger, typically made of leather or metal|
+|lymphocyte|a form of small leukocyte (white blood cell) with a single round nucleus, occurring especially in the lymphatic system.|
