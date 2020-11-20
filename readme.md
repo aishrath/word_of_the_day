@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|guile|sly or cunning intelligence|
+|situational|relating to or dependent on a set of circumstances or state of affairs|
