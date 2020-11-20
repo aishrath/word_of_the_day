@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rear|the back part of something, especially a building or vehicle|
+|guile|sly or cunning intelligence|
