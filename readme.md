@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|situational|relating to or dependent on a set of circumstances or state of affairs|
+|impressionist|a painter, writer, or composer who is an exponent of impressionism.|
