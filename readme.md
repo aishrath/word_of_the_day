@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|impressionist|a painter, writer, or composer who is an exponent of impressionism.|
+|collards|a cabbage of a variety that does not develop a heart.|
