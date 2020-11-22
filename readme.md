@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|collards|a cabbage of a variety that does not develop a heart.|
+|crotchety|irritable|
