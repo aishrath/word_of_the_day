@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|crotchety|irritable|
+|turgor|the state of turgidity and resulting rigidity of cells or tissues, typically due to the absorption of fluid|
