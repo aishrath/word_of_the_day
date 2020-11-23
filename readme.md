@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|turgor|the state of turgidity and resulting rigidity of cells or tissues, typically due to the absorption of fluid|
+|trophy|a cup or other decorative object awarded as a prize for a victory or success.|
