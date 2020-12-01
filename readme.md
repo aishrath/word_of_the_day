@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|trophy|a cup or other decorative object awarded as a prize for a victory or success.|
+|quivering|trembling or shaking with a slight rapid motion|
