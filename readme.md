@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|furl|roll or fold up and secure neatly (a flag, sail, umbrella, or other piece of fabric)|
+|sodomite|a person who engages in sodomy.|
