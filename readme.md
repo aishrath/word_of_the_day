@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|sodomite|a person who engages in sodomy.|
+|mention|refer to something briefly and without going into detail|
