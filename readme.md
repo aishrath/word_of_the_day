@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|carabinero|a spanish or south american frontier guard or customs officer.|
+|penmanship|the art or skill of writing by hand|
