@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mention|refer to something briefly and without going into detail|
+|carabinero|a spanish or south american frontier guard or customs officer.|
