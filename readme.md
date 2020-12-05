@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|grassy|covered with grass|
+|prejudiced|having or showing a dislike or distrust that is derived from prejudice; bigoted|
