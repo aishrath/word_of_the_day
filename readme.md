@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|saleratus|sodium bicarbonate (or sometimes potassium bicarbonate) as the main ingredient of baking powder.|
+|augmented|having been made greater in size or value|
