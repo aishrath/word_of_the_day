@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|iodophor|any of a group of disinfectants containing iodine in combination with a surfactant.|
+|saleratus|sodium bicarbonate (or sometimes potassium bicarbonate) as the main ingredient of baking powder.|
