@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|prejudiced|having or showing a dislike or distrust that is derived from prejudice; bigoted|
+|iodophor|any of a group of disinfectants containing iodine in combination with a surfactant.|
