@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|shea|a small tropical african tree which bears oily nuts from which shea butter is obtained.|
+|statuette|a small statue or figurine, especially one that is smaller than life-size.|
