@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|statuette|a small statue or figurine, especially one that is smaller than life-size.|
+|euploid|(of a nucleus, cell, or organism) having an exact multiple of the haploid number of chromosomes.|
