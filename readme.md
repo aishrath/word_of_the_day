@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|veiling|a light gauzy fabric used for veils|
+|exhort|strongly encourage or urge (someone) to do something|
