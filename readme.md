@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|airsick|affected with nausea due to travel in an aircraft.|
+|veiling|a light gauzy fabric used for veils|
