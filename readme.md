@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|exhort|strongly encourage or urge (someone) to do something|
+|humanize|make (something) more humane or civilized|
