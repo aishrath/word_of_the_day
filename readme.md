@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|humanize|make (something) more humane or civilized|
+|magazinist|a person who writes articles for magazines; = magaziner.|
