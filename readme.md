@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|magazinist|a person who writes articles for magazines; = magaziner.|
+|graffiti|writing or drawings scribbled, scratched, or sprayed illicitly on a wall or other surface in a public place|
