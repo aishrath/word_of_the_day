@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|basic|forming an essential foundation or starting point; fundamental|
+|treat|behave toward or deal with in a certain way|
