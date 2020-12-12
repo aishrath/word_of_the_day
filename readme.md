@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|treat|behave toward or deal with in a certain way|
+|uptalk|a manner of speaking in which declarative sentences are uttered with rising intonation at the end, as if they were questions.|
