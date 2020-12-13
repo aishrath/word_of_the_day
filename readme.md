@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|booking|an act of reserving accommodations, travel, etc., or of buying a ticket in advance|
+|ribose|a sugar of the pentose class which occurs widely in nature as a constituent of nucleosides and several vitamins and enzymes.|
