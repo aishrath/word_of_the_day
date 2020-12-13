@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|uptalk|a manner of speaking in which declarative sentences are uttered with rising intonation at the end, as if they were questions.|
+|booking|an act of reserving accommodations, travel, etc., or of buying a ticket in advance|
