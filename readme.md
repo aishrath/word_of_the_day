@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pulchritudinous|beautiful|
+|linkwork|a kind of gearing which transmits motion by a series of links rather than by wheels or bands.|
