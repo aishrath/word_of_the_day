@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|compatibility|a state in which two things are able to exist or occur together without problems or conflict|
+|lament|a passionate expression of grief or sorrow|
