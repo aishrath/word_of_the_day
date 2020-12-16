@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|minim|one sixtieth of a fluid dram, about one drop of liquid.|
+|dithered|(of a color image or print) appearing to contain more colors than are really available|
