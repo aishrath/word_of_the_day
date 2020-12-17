@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|sternutation|the action of sneezing.|
+|retrodict|state a fact about the past based on inference or deduction, rather than evidence.|
