@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|sourpuss|a bad-tempered or habitually sullen person.|
+|ignimbrite|a volcanic rock consisting essentially of pumice fragments, formed by the consolidation of material deposited by pyroclastic flows.|
