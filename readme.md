@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tabard|a sleeveless jerkin consisting only of front and back pieces with a hole for the head|
+|footlocker|a small trunk or storage chest, originally stored at the foot of a bed.|
