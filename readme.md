@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|obtrusive|noticeable or prominent in an unwelcome or intrusive way|
+|ptosis|drooping of the upper eyelid due to paralysis or disease, or as a congenital condition.|
