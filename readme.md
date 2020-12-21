@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|footlocker|a small trunk or storage chest, originally stored at the foot of a bed.|
+|obtrusive|noticeable or prominent in an unwelcome or intrusive way|
