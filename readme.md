@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ptosis|drooping of the upper eyelid due to paralysis or disease, or as a congenital condition.|
+|more|a greater or additional amount or degree of|
