@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|scabbard|a sheath for the blade of a sword or dagger, typically made of leather or metal|
+|aptitude|a natural ability to do something|
