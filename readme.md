@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|periotic|the bone forming the otic capsule of the inner ear, consisting of fused prootic, epiotic, and opisthotic bones.|
+|scabbard|a sheath for the blade of a sword or dagger, typically made of leather or metal|
