@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|aptitude|a natural ability to do something|
+|quarterly|done, produced, or occurring once every quarter of a year|
