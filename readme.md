@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|quarterly|done, produced, or occurring once every quarter of a year|
+|memorably|in a way that is worth remembering or easily remembered|
