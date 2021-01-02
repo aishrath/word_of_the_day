@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|memorably|in a way that is worth remembering or easily remembered|
+|infertility|inability to conceive children or young|
