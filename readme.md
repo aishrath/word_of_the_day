@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|infertility|inability to conceive children or young|
+|guilder|the basic monetary unit of the netherlands (until the introduction of the euro), equal to 100 cents.|
