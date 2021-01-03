@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|guilder|the basic monetary unit of the netherlands (until the introduction of the euro), equal to 100 cents.|
+|palace|the official residence of a sovereign, archbishop, bishop, or other exalted person|
