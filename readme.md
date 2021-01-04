@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|lambasting|a harsh criticism|
+|plutocracy|government by the wealthy|
