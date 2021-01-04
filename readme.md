@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|palace|the official residence of a sovereign, archbishop, bishop, or other exalted person|
+|lambasting|a harsh criticism|
