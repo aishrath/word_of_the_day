@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|datedness|the quality of being characteristic of a particular period; outdatedness, old-fashionedness.|
+|knickers|loose-fitting trousers gathered at the knee or calf.|
