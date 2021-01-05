@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|plutocracy|government by the wealthy|
+|datedness|the quality of being characteristic of a particular period; outdatedness, old-fashionedness.|
