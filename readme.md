@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|freshet|the flood of a river from heavy rain or melted snow.|
+|grandiloquent|pompous or extravagant in language, style, or manner, especially in a way that is intended to impress|
