@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|knickers|loose-fitting trousers gathered at the knee or calf.|
+|freshet|the flood of a river from heavy rain or melted snow.|
