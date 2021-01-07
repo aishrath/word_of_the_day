@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fustian|thick, durable twilled cloth with a short nap, usually dyed in dark colors|
+|monologuing|the action of speaking in monologue or delivering a monologue.|
