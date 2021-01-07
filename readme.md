@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|grandiloquent|pompous or extravagant in language, style, or manner, especially in a way that is intended to impress|
+|fustian|thick, durable twilled cloth with a short nap, usually dyed in dark colors|
