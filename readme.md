@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|monologuing|the action of speaking in monologue or delivering a monologue.|
+|outshine|shine more brightly than|
