@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|populism|a political approach that strives to appeal to ordinary people who feel that their concerns are disregarded by established elite groups|
+|certitude|absolute certainty or conviction that something is the case|
