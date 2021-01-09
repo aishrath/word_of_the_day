@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pirated|(of a product or piece of artistic work) reproduced without permission, usually in contravention of patent or copyright|
+|autologous|(of cells or tissues) obtained from the same individual|
