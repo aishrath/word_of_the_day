@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|certitude|absolute certainty or conviction that something is the case|
+|pirated|(of a product or piece of artistic work) reproduced without permission, usually in contravention of patent or copyright|
