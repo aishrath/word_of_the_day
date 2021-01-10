@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|autologous|(of cells or tissues) obtained from the same individual|
+|crannog|an ancient fortified dwelling constructed in a lake or marsh in scotland or ireland.|
