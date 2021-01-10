@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|crannog|an ancient fortified dwelling constructed in a lake or marsh in scotland or ireland.|
+|saggy|tending to sink or bulge downward under weight or pressure|
