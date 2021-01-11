@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|saggy|tending to sink or bulge downward under weight or pressure|
+|extensibility|the ability to be extended or stretched|
