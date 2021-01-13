@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|marish|marsh.|
+|fallaway|a shot made while the shooter jumps or falls away from the basket|
