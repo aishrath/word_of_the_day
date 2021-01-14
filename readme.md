@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fallaway|a shot made while the shooter jumps or falls away from the basket|
+|rancorous|characterized by bitterness or resentment|
