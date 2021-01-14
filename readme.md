@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rancorous|characterized by bitterness or resentment|
+|citrusy|characteristic of citrus fruit in taste, scent, or color|
