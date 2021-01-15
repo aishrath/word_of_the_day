@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|punctual|happening or doing something at the agreed or proper time; on time|
+|knifepoint|used in reference to the use of a knife to threaten someone|
