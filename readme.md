@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|citrusy|characteristic of citrus fruit in taste, scent, or color|
+|punctual|happening or doing something at the agreed or proper time; on time|
