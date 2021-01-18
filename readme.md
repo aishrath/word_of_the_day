@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|comparatively|to a moderate degree as compared to something else; relatively|
+|quayside|a quay and the area around it.|
