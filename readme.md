@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|quayside|a quay and the area around it.|
+|democracy|a system of government by the whole population or all the eligible members of a state, typically through elected representatives|
