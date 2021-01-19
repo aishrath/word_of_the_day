@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|democracy|a system of government by the whole population or all the eligible members of a state, typically through elected representatives|
+|spacer|a component or device used to make a space or division|
