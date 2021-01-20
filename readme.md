@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|spacer|a component or device used to make a space or division|
+|picotee|a type of carnation whose light-colored flowers have dark-edged petals.|
