@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|gunrunner|a person engaged in the illegal sale or importing of firearms.|
+|payment|the action or process of paying someone or something or of being paid|
