@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|overbusy|excessively busy|
+|gunrunner|a person engaged in the illegal sale or importing of firearms.|
