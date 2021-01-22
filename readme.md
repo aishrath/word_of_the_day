@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|techie|a person who is expert in or enthusiastic about technology, especially computing.|
+|bimillenary|relating to a period of two thousand years or a two-thousandth anniversary.|
