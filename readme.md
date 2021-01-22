@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|payment|the action or process of paying someone or something or of being paid|
+|techie|a person who is expert in or enthusiastic about technology, especially computing.|
