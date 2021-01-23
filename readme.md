@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bimillenary|relating to a period of two thousand years or a two-thousandth anniversary.|
+|maneuverability|the quality of being easy to move or steer while in motion|
