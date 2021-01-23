@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|maneuverability|the quality of being easy to move or steer while in motion|
+|manicure|a cosmetic treatment of the hands involving shaping and often painting of the nails, removal of the cuticles, and softening of the skin.|
