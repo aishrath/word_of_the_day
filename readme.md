@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|manicure|a cosmetic treatment of the hands involving shaping and often painting of the nails, removal of the cuticles, and softening of the skin.|
+|postulation|a suggestion or assumption of the existence, fact, or truth of something as a basis for reasoning, discussion, or belief|
