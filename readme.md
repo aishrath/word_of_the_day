@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|postulation|a suggestion or assumption of the existence, fact, or truth of something as a basis for reasoning, discussion, or belief|
+|repressive|(especially of a social or political system) inhibiting or restraining the freedom of a person or group of people|
