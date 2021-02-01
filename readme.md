@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|repressive|(especially of a social or political system) inhibiting or restraining the freedom of a person or group of people|
+|prepossessing|attractive or appealing in appearance|
