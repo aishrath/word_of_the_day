@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|prepossessing|attractive or appealing in appearance|
+|spermicidal|containing a substance that kills spermatozoa|
