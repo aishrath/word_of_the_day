@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|spermicidal|containing a substance that kills spermatozoa|
+|hypopnea|abnormally slow or shallow breathing.|
