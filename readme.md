@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|motherhood|the state of being a mother|
+|paradoxical|seemingly absurd or self-contradictory|
