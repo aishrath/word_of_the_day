@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hypopnea|abnormally slow or shallow breathing.|
+|motherhood|the state of being a mother|
