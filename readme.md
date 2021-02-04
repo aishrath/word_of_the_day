@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|paradoxical|seemingly absurd or self-contradictory|
+|butylate|combine with a butyl group.|
