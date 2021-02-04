@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|butylate|combine with a butyl group.|
+|limba|a member of a people of sierra leone and guinea.|
