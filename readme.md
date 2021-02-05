@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|palliate|make (a disease or its symptoms) less severe or unpleasant without removing the cause|
+|maquis|the french resistance movement during the german occupation (1940–45)|
