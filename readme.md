@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|norethindrone|= norethisterone.|
+|accommodational|of, relating to, or providing acceptable accommodation.|
