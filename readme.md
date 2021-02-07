@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|accommodational|of, relating to, or providing acceptable accommodation.|
+|tapetum|a reflective layer of the choroid in the eyes of many animals, causing them to shine in the dark.|
