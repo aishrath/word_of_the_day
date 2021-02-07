@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tapetum|a reflective layer of the choroid in the eyes of many animals, causing them to shine in the dark.|
+|bwana|(in east africa) a boss or master (often used as a title or form of address)|
