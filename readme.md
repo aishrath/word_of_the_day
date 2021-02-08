@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bwana|(in east africa) a boss or master (often used as a title or form of address)|
+|insouciant|showing a casual lack of concern; indifferent|
