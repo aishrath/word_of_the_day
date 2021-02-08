@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|insouciant|showing a casual lack of concern; indifferent|
+|monaxon|of a sponge spicule: having a single (straight or curved) axis.|
