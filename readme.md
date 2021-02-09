@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|monaxon|of a sponge spicule: having a single (straight or curved) axis.|
+|caffeine|a crystalline compound that is found especially in tea and coffee plants and is a stimulant of the central nervous system.|
