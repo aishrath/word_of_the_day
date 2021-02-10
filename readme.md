@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|monsignorial|of or relating to a monsignor; possessing the title or rank of ‘monsignor’.|
+|dialectic|the art of investigating or discussing the truth of opinions.|
