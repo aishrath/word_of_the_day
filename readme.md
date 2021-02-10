@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|dialectic|the art of investigating or discussing the truth of opinions.|
+|kukri|a curved knife broadening toward the point, used by gurkhas.|
