@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|kukri|a curved knife broadening toward the point, used by gurkhas.|
+|metatarsal|any of the bones of the foot (metatarsus).|
