@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|metatarsal|any of the bones of the foot (metatarsus).|
+|recreationist|a person who enjoys outdoor leisure activities such as hiking, camping, fishing, etc|
