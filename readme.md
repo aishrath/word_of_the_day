@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ahold|so as to hold on to someone or something; with a firm hold or grip. chiefly with of.|
+|shakeout|an upheaval or reorganization of a business, market, or organization due to competition and typically involving streamlining and layoffs|
