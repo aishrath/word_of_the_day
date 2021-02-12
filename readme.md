@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|recreationist|a person who enjoys outdoor leisure activities such as hiking, camping, fishing, etc|
+|ahold|so as to hold on to someone or something; with a firm hold or grip. chiefly with of.|
