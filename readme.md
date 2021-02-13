@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|evident|plain or obvious; clearly seen or understood|
+|uncelebrated|not publicly acclaimed|
