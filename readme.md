@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|uncelebrated|not publicly acclaimed|
+|bilge|the area on the outer surface of a ship's hull where the bottom curves to meet the vertical sides.|
