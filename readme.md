@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|shoal|a large number of fish swimming together|
+|reticulocyte|an immature red blood cell without a nucleus, having a granular or reticulated appearance when suitably stained.|
