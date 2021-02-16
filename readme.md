@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|reticulocyte|an immature red blood cell without a nucleus, having a granular or reticulated appearance when suitably stained.|
+|bellflower|a plant with bell-shaped flowers that are usually blue, purple, pink, or white. many kinds are cultivated as ornamentals.|
