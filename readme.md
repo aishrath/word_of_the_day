@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bellflower|a plant with bell-shaped flowers that are usually blue, purple, pink, or white. many kinds are cultivated as ornamentals.|
+|phlogopite|a brown micaceous mineral which occurs chiefly in metamorphosed limestone and magnesium-rich igneous rocks.|
