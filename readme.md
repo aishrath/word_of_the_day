@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|characteristic|typical of a particular person, place, or thing|
+|silenced|prevented or prohibited from speaking|
