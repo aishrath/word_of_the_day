@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|silenced|prevented or prohibited from speaking|
+|absterge|to wipe away; to wipe clean, cleanse.|
