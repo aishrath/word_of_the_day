@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|repercussion|an unintended consequence occurring some time after an event or action, especially an unwelcome one|
+|extramarital|(especially of sexual relations) occurring outside marriage|
