@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|resign|voluntarily leave a job or other position|
+|repercussion|an unintended consequence occurring some time after an event or action, especially an unwelcome one|
