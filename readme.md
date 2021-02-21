@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|caudal|of or like a tail.|
+|daddy|one's father.|
