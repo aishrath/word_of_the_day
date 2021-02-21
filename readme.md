@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|extramarital|(especially of sexual relations) occurring outside marriage|
+|caudal|of or like a tail.|
