@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|daddy|one's father.|
+|whole|all of; entire|
