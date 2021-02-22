@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|whole|all of; entire|
+|monogamously|in a way that involves marriage to one person at a time|
