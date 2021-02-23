@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|monogamously|in a way that involves marriage to one person at a time|
+|tallyho|a huntsman's cry to the hounds on sighting a fox.|
