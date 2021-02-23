@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tallyho|a huntsman's cry to the hounds on sighting a fox.|
+|nares|the nostrils.|
