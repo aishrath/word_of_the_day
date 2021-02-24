@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mistakenly|in a mistaken way; wrongly|
+|uproar|a loud and impassioned noise or disturbance|
