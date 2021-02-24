@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|nares|the nostrils.|
+|mistakenly|in a mistaken way; wrongly|
