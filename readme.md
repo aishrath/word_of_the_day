@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|poignantly|in a way that evokes a keen sense of sadness or regret|
+|impassable|impossible to travel along or over|
