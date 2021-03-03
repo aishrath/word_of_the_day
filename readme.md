@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ingrate|an ungrateful person.|
+|nocuous|noxious, harmful, or poisonous.|
