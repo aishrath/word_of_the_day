@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|impassable|impossible to travel along or over|
+|ingrate|an ungrateful person.|
