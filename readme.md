@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|underwear|clothing worn under other clothes, typically next to the skin.|
+|overcook|cook too much or for too long|
