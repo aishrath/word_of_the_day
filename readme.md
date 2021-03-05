@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hymnology|the study or composition of hymns.|
+|underwear|clothing worn under other clothes, typically next to the skin.|
