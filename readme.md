@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|overcook|cook too much or for too long|
+|bola|(especially in south america) a weapon consisting of a number of balls connected by strong cord, which when thrown entangles the limbs of the quarry.|
