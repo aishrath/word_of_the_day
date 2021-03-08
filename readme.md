@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|plateresque|(especially of spanish architecture) richly ornamented in a low-relief style suggesting silver work|
+|acarpous|not producing fruit; unfruitful, sterile; (botany). frequently figurative: failing to achieve the desired results, unproductive; barren.|
