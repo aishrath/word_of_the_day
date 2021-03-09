@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|processioning|the action of moving in or as in procession; an instance of this.|
+|unstring|remove from a string|
