@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|acarpous|not producing fruit; unfruitful, sterile; (botany). frequently figurative: failing to achieve the desired results, unproductive; barren.|
+|processioning|the action of moving in or as in procession; an instance of this.|
