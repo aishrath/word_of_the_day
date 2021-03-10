@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unstring|remove from a string|
+|multiskilled|having a range of skills or abilities|
