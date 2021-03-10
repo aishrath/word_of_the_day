@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|multiskilled|having a range of skills or abilities|
+|navigator|a person who directs the route or course of a ship, aircraft, or other form of transportation, especially by using instruments and maps|
