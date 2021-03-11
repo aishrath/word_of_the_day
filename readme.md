@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|potassium|the chemical element of atomic number 19, a soft silvery-white reactive metal of the alkali metal group.|
+|surface|the outside part or uppermost layer of something (often used when describing its texture, form, or extent)|
