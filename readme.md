@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|curding|the action of "curd"; curdling, coagulation; an instance of this.|
+|potassium|the chemical element of atomic number 19, a soft silvery-white reactive metal of the alkali metal group.|
