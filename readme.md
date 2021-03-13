@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|parsnip|a long tapering cream-colored root with a sweet flavor|
+|palship|the state or relation of being pals (originally criminal accomplices); friendship.|
