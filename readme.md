@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fringe|the border or outer edges of an area or group|
+|parsnip|a long tapering cream-colored root with a sweet flavor|
