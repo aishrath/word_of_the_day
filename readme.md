@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|detoxify|remove toxic substances or qualities from|
+|amphioxus|a lancelet that is caught for food in parts of asia.|
