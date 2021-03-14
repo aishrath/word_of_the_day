@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|palship|the state or relation of being pals (originally criminal accomplices); friendship.|
+|detoxify|remove toxic substances or qualities from|
