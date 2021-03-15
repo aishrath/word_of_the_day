@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|familiarization|the action or process of gaining knowledge or understanding of something|
+|scarcity|the state of being scarce or in short supply; shortage|
