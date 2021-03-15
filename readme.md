@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|amphioxus|a lancelet that is caught for food in parts of asia.|
+|familiarization|the action or process of gaining knowledge or understanding of something|
