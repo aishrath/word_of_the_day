@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|putonghua|the standard spoken form of modern chinese, based on the dialect of beijing.|
+|funnily|in a strange or amusing way|
