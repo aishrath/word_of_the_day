@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|scarcity|the state of being scarce or in short supply; shortage|
+|putonghua|the standard spoken form of modern chinese, based on the dialect of beijing.|
