@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|noogie|a hard poke or grind with the knuckles, especially on a person's head.|
+|slack|not taut or held tightly in position; loose|
