@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|funnily|in a strange or amusing way|
+|noogie|a hard poke or grind with the knuckles, especially on a person's head.|
