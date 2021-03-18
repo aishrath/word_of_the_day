@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|slack|not taut or held tightly in position; loose|
+|cybernetics|the science of communications and automatic control systems in both machines and living things.|
