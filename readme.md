@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cybernetics|the science of communications and automatic control systems in both machines and living things.|
+|unused|not being, or never having been, used|
