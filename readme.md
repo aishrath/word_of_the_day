@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unused|not being, or never having been, used|
+|kaffiyeh|a bedouin arab's kerchief worn as a headdress.|
