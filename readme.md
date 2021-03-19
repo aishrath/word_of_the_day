@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|kaffiyeh|a bedouin arab's kerchief worn as a headdress.|
+|paraldehyde|a liquid made by treating acetaldehyde with acid, used medicinally as a sedative, hypnotic, and anticonvulsant.|
