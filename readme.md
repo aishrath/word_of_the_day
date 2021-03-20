@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|paraldehyde|a liquid made by treating acetaldehyde with acid, used medicinally as a sedative, hypnotic, and anticonvulsant.|
+|unteach|cause (someone) to forget something learned previously|
