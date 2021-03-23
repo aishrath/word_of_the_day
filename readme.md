@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|applause|approval or praise expressed by clapping|
+|unrhythmic|not rhythmic.|
