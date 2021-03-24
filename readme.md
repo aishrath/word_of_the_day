@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unrhythmic|not rhythmic.|
+|extrorse|turned outward.|
