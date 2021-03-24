@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|extrorse|turned outward.|
+|intrude|put oneself deliberately into a place or situation where one is unwelcome or uninvited|
