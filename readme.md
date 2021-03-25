@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|sateen|a cotton fabric woven like satin with a glossy surface.|
+|pustuled|pustular; pustulate.|
