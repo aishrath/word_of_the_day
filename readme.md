@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|intrude|put oneself deliberately into a place or situation where one is unwelcome or uninvited|
+|sateen|a cotton fabric woven like satin with a glossy surface.|
