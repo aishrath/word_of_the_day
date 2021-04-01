@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pustuled|pustular; pustulate.|
+|biogeny|the history of the origin and evolution of living organisms; specifically = "recapitulation". now chiefly historical.|
