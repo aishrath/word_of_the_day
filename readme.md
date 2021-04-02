@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|biogeny|the history of the origin and evolution of living organisms; specifically = "recapitulation". now chiefly historical.|
+|denazify|remove the nazi (or figuratively, the fascist or repressive) influence from|
