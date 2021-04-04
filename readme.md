@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|creamery|a place where butter and cheese are produced.|
+|actinian|a sea anemone.|
