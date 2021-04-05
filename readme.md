@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tonic|a medicinal substance taken to give a feeling of vigor or well-being.|
+|teenybop|relating to or denoting a young teenager, typically a girl, who avidly follows the latest fashions in clothes and pop music|
