@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|enmity|the state or feeling of being actively opposed or hostile to someone or something|
+|tonic|a medicinal substance taken to give a feeling of vigor or well-being.|
