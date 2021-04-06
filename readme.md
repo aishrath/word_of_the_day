@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|politicalized|made political in character, politicized.|
+|operatic|relating to or characteristic of opera|
