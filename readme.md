@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|francophone|french-speaking|
+|mediative|that mediates, that has the quality of mediating.|
