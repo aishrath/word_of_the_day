@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|operatic|relating to or characteristic of opera|
+|francophone|french-speaking|
