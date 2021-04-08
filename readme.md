@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mediative|that mediates, that has the quality of mediating.|
+|ambuscader|a person who (habitually) lies in ambush; an ambusher.|
