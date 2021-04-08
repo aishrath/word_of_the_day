@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ambuscader|a person who (habitually) lies in ambush; an ambusher.|
+|cotinga|a bird found in the forests of central and south america, the male of which is frequently brilliantly colored.|
