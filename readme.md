@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|outrider|a person in a motor vehicle or on horseback who goes in front of or beside a vehicle as an escort or guard|
+|ceremony|a formal religious or public occasion, typically one celebrating a particular event or anniversary|
