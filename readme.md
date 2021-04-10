@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ceremony|a formal religious or public occasion, typically one celebrating a particular event or anniversary|
+|poop|the aftermost and highest deck of a ship, especially in a sailing ship where it typically forms the roof of a cabin in the stern|
