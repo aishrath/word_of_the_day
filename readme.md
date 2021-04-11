@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|articulation|the formation of clear and distinct sounds in speech|
+|bra|an undergarment worn by women to support the breasts.|
