@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bra|an undergarment worn by women to support the breasts.|
+|consequential|following as a result or effect|
