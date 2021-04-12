@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|consequential|following as a result or effect|
+|chausses|pantaloons or close-fitting coverings for the legs and feet, in particular those forming part of a knight's armor.|
