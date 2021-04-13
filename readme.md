@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|protuberance|a thing that protrudes from something else|
+|militaria|military articles of historical interest, such as weapons, uniforms, and equipment|
