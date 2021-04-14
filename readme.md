@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|abator|a person who takes possession of land between the death of the owner and the accession of the legal heir.|
+|longline|a type of deep-sea fishing gear consisting of a long main line anchored to the bottom to which shorter lines with baited hooks are fastened at intervals|
