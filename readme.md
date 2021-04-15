@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|geniculated|geniculate.|
+|stadium|a sports arena with tiers of seats for spectators.|
