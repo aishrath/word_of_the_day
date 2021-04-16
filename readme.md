@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|souk|an arab market or marketplace; a bazaar.|
+|improve|make or become better|
