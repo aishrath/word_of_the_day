@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|stadium|a sports arena with tiers of seats for spectators.|
+|souk|an arab market or marketplace; a bazaar.|
