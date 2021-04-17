@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|improve|make or become better|
+|oxymoronically|in an oxymoronic manner; incongruously.|
