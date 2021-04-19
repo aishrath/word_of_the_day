@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|modification|the action of modifying something|
+|groveling|acting obsequiously in order to obtain forgiveness or favor|
