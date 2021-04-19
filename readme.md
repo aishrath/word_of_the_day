@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|groveling|acting obsequiously in order to obtain forgiveness or favor|
+|that|used to identify a specific person or thing observed by the speaker|
