@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|that|used to identify a specific person or thing observed by the speaker|
+|altimeter|an instrument for determining altitude attained, especially a barometric or radar device used in an aircraft.|
