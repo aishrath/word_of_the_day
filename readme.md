@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|housewife|a woman whose main occupation is caring for her family, managing household affairs, and doing housework, while her husband or partner goes out to work|
+|permeable|(of a material or membrane) allowing liquids or gases to pass through it|
