@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|altimeter|an instrument for determining altitude attained, especially a barometric or radar device used in an aircraft.|
+|housewife|a woman whose main occupation is caring for her family, managing household affairs, and doing housework, while her husband or partner goes out to work|
