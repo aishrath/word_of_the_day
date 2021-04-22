@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|permeable|(of a material or membrane) allowing liquids or gases to pass through it|
+|glochid|a barbed bristle on the areole of some cacti.|
