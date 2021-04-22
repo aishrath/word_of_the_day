@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|glochid|a barbed bristle on the areole of some cacti.|
+|soman|a lethal organophosphorus nerve gas, developed in germany during world war ii.|
