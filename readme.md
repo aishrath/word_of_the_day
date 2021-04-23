@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|entangle|cause to become twisted together with or caught in|
+|autoantibody|an antibody produced by an organism in response to a constituent of its own tissues.|
