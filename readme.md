@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|autoantibody|an antibody produced by an organism in response to a constituent of its own tissues.|
+|kaftan|a man's long belted tunic, worn in countries of the near east.|
