@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|kaftan|a man's long belted tunic, worn in countries of the near east.|
+|frostbiting|the process or fact of being exposed to freezing temperatures; damage or injury as a result of this; frostbite.|
