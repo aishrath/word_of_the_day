@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|frostbiting|the process or fact of being exposed to freezing temperatures; damage or injury as a result of this; frostbite.|
+|maypop|the yellow edible fruit of a north american passionflower.|
