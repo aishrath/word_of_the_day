@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|maypop|the yellow edible fruit of a north american passionflower.|
+|starflower|a plant with starlike flowers.|
