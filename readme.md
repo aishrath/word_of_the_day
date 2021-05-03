@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|commuter|a person who travels some distance to work on a regular basis|
+|conformity|compliance with standards, rules, or laws|
