@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|victor|a person who defeats an enemy or opponent in a battle, game, or other competition|
+|retouch|improve or repair (a painting, a photograph, makeup, etc.) by making slight additions or alterations|
