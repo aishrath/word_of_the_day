@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|conformity|compliance with standards, rules, or laws|
+|victor|a person who defeats an enemy or opponent in a battle, game, or other competition|
