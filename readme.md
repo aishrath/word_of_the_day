@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|retouch|improve or repair (a painting, a photograph, makeup, etc.) by making slight additions or alterations|
+|vacuous|having or showing a lack of thought or intelligence; mindless|
