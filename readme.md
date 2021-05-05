@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|vacuous|having or showing a lack of thought or intelligence; mindless|
+|esculent|fit to be eaten; edible.|
