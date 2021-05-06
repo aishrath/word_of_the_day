@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|esculent|fit to be eaten; edible.|
+|bazillion|a very large exaggerated number|
