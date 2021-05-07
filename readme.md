@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|odometry|measurement by an odometer of distances travelled.|
+|dosshouse|a cheap lodging house for homeless people and tramps.|
