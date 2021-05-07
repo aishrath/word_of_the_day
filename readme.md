@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bazillion|a very large exaggerated number|
+|odometry|measurement by an odometer of distances travelled.|
