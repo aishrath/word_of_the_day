@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|dosshouse|a cheap lodging house for homeless people and tramps.|
+|altruistic|showing a disinterested and selfless concern for the well-being of others; unselfish|
