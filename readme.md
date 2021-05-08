@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|altruistic|showing a disinterested and selfless concern for the well-being of others; unselfish|
+|catnap|a short, light sleep; a doze.|
