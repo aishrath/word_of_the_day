@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|catnap|a short, light sleep; a doze.|
+|clearance|the action or process of removing or getting rid of something or of something's dispersing|
