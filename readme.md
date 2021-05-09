@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|clearance|the action or process of removing or getting rid of something or of something's dispersing|
+|replenishment|restoration of a stock or supply to a former level or condition|
