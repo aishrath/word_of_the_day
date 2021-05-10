@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|replenishment|restoration of a stock or supply to a former level or condition|
+|arcade|a covered passageway with arches along one or both sides.|
