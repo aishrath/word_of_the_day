@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|liminess|the quality of being limy.|
+|kermis|a summer fair held in towns and villages in the netherlands.|
