@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|kermis|a summer fair held in towns and villages in the netherlands.|
+|creativity|the use of the imagination or original ideas, especially in the production of an artistic work|
