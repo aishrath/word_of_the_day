@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cahow|a large atlantic petrel that breeds in bermuda. it is an endangered species.|
+|trenchant|vigorous or incisive in expression or style|
