@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|creativity|the use of the imagination or original ideas, especially in the production of an artistic work|
+|cahow|a large atlantic petrel that breeds in bermuda. it is an endangered species.|
