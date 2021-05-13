@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|properdin|a protein present in the blood, involved in the body's response to certain kinds of infection.|
+|merchandise|goods to be bought and sold|
