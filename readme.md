@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|git|an unpleasant or contemptible person|
+|candid|truthful and straightforward; frank|
