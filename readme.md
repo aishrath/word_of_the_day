@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|merchandise|goods to be bought and sold|
+|git|an unpleasant or contemptible person|
