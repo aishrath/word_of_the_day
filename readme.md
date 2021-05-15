@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|candid|truthful and straightforward; frank|
+|ayahuasca|a tropical vine native to the amazon region, noted for its hallucinogenic properties.|
