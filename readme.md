@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|switchback|a 180° bend in a road or path, especially one leading up the side of a mountain.|
+|allegiance|loyalty or commitment of a subordinate to a superior or of an individual to a group or cause|
