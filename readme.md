@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ayahuasca|a tropical vine native to the amazon region, noted for its hallucinogenic properties.|
+|switchback|a 180° bend in a road or path, especially one leading up the side of a mountain.|
