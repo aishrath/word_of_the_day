@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|allegiance|loyalty or commitment of a subordinate to a superior or of an individual to a group or cause|
+|glyptic|of or concerning carving or engraving.|
