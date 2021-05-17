@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|glyptic|of or concerning carving or engraving.|
+|ovulate|discharge ova or ovules from the ovary|
