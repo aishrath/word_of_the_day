@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ovulate|discharge ova or ovules from the ovary|
+|moussaka|a greek dish made of ground lamb, eggplant, and tomatoes, with cheese on top.|
