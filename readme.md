@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|misjoin|to join or connect wrongly, inappropriately, or unsuitably; sometimes specifically in law.|
+|operosely|in an operose manner; laboriously, busily; elaborately.|
