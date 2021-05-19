@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|supranational|having power or influence that transcends national boundaries or governments|
+|misjoin|to join or connect wrongly, inappropriately, or unsuitably; sometimes specifically in law.|
