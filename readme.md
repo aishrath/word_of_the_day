@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|operosely|in an operose manner; laboriously, busily; elaborately.|
+|reliquary|a container for holy relics.|
