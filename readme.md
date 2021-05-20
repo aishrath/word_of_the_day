@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|reliquary|a container for holy relics.|
+|molder|slowly decay or disintegrate, especially because of neglect|
