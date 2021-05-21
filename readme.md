@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|molder|slowly decay or disintegrate, especially because of neglect|
+|extrovert|an outgoing, overtly expressive person.|
