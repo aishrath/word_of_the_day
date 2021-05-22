@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|yestern|the day before today; yesterday.|
+|mildewy|affected by mildew; moldy|
