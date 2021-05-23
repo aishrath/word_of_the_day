@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mildewy|affected by mildew; moldy|
+|prevaricate|speak or act in an evasive way|
