@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|neurologist|a specialist in the anatomy, functions, and organic disorders of nerves and the nervous system|
+|housewife|a woman whose main occupation is caring for her family, managing household affairs, and doing housework, while her husband or partner goes out to work|
