@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|debit|an entry recording an amount owed, listed on the left-hand side or column of an account|
+|butadiene|a colorless gaseous hydrocarbon made by catalytic dehydrogenation of butane and used in the manufacture of synthetic rubber.|
