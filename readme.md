@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|plaster|a soft mixture of lime with sand or cement and water for spreading on walls, ceilings, or other structures to form a smooth hard surface when dried|
+|fallout|radioactive particles that are carried into the atmosphere after a nuclear explosion or accident and gradually fall back as dust or in precipitation|
