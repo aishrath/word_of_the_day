@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|butadiene|a colorless gaseous hydrocarbon made by catalytic dehydrogenation of butane and used in the manufacture of synthetic rubber.|
+|plaster|a soft mixture of lime with sand or cement and water for spreading on walls, ceilings, or other structures to form a smooth hard surface when dried|
