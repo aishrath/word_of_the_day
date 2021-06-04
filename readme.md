@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unfenced|not provided with fences.|
+|master|a man who has people working for him, especially servants or slaves|
