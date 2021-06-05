@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|subjunction|the action of subjoining a statement, etc.; the condition of being subjoined, annexed, or closely attached.|
+|mustee|a person of mixed european and african descent; (sometimes) specifically a person with one white-skinned parent and the other one-quarter black. also more generally: a person of mixed racial descent.|
