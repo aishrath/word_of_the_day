@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|master|a man who has people working for him, especially servants or slaves|
+|subjunction|the action of subjoining a statement, etc.; the condition of being subjoined, annexed, or closely attached.|
