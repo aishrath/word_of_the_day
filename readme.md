@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|aim|point or direct (a weapon or camera) at a target|
+|shive|a broad plug hammered into a hole in the top of a cask when the cask has been filled.|
