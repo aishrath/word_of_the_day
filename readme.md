@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|allegorical|constituting or containing allegory|
+|ballsy|tough and courageous|
