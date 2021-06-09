@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|platitudinarian|characterized by platitude; tending to use platitudes.|
+|norethindrone|= norethisterone.|
