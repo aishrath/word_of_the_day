@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|norethindrone|= norethisterone.|
+|politicize|cause (an activity or event) to become political in character|
