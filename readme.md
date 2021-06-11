@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|underfeeding|the action or practice of not giving a person or animal enough food|
+|takin|a large, heavily built goat-antelope found in steep, dense woodlands of the eastern himalayas.|
