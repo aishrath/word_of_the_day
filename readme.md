@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|politicize|cause (an activity or event) to become political in character|
+|underfeeding|the action or practice of not giving a person or animal enough food|
