@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|takin|a large, heavily built goat-antelope found in steep, dense woodlands of the eastern himalayas.|
+|pilaster|a rectangular column, especially one projecting from a wall.|
