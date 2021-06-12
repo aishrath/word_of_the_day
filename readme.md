@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pilaster|a rectangular column, especially one projecting from a wall.|
+|retrally|at or towards the back.|
