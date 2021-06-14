@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|sunbeam|a ray of sunlight|
+|matronymic|a name derived from the name of a mother or female ancestor.|
