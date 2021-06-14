@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mischief|playful misbehavior or troublemaking, especially in children|
+|sunbeam|a ray of sunlight|
