@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unfused|not fused or joined|
+|declassify|officially declare (information or documents) to be no longer secret|
