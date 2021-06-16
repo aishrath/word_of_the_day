@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|declassify|officially declare (information or documents) to be no longer secret|
+|pocket|a small bag sewn into or on clothing so as to form part of it, used for carrying small articles|
