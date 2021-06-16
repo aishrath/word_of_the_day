@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pocket|a small bag sewn into or on clothing so as to form part of it, used for carrying small articles|
+|rugosa|a widely cultivated southeast asian rose with dark green wrinkled leaves and deep pink flowers.|
