@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|preregister|register in advance|
+|strawflower|an everlasting flower of the daisy family.|
