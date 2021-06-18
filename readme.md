@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|jaborandi|a drug made from the dried leaves of certain south american plants, which contain the alkaloid pilocarpine and promote salivation when chewed.|
+|scope|the extent of the area or subject matter that something deals with or to which it is relevant|
