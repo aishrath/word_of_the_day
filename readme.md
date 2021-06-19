@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|percutaneous|made, done, or effected through the skin|
+|wean|accustom (an infant or other young mammal) to food other than its mother's milk.|
