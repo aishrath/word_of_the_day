@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ballerina|a female ballet dancer.|
+|render|provide or give (a service, help, etc.)|
