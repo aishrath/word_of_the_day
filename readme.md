@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|render|provide or give (a service, help, etc.)|
+|patriliny|the observance of patrilineal descent and kinship; a kinship system based on this.|
