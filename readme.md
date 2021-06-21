@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|patriliny|the observance of patrilineal descent and kinship; a kinship system based on this.|
+|pourparler|chiefly in plural. an informal discussion or conference as a preliminary to more formal negotiations.|
