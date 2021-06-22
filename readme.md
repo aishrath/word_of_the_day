@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|prolongation|extension of the duration of something|
+|generational|relating to or characteristic of all the people born and living at about the same time, regarded collectively|
