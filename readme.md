@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|generational|relating to or characteristic of all the people born and living at about the same time, regarded collectively|
+|travois|a type of sledge formerly used by north american indians (especially of the great plains) to carry goods, consisting of two joined poles pulled by a horse or dog.|
