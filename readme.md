@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|spirited|full of energy, enthusiasm, and determination|
+|reinvest|put (the profit on a previous investment) back into the same place|
