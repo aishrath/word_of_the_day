@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|greenhouse|a glass building in which plants are grown that need protection from cold weather.|
+|amalgamation|the action, process, or result of combining or uniting|
