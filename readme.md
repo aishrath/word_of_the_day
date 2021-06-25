@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|reinvest|put (the profit on a previous investment) back into the same place|
+|greenhouse|a glass building in which plants are grown that need protection from cold weather.|
