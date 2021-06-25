@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|amalgamation|the action, process, or result of combining or uniting|
+|acrimony|bitterness or ill feeling|
