@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|acrimony|bitterness or ill feeling|
+|internee|a person who is confined as a prisoner, especially for political or military reasons.|
