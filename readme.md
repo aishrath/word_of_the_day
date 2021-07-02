@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|chitchat|inconsequential conversation|
+|harebell|a widely distributed bellflower with slender stems and pale blue flowers in late summer.|
