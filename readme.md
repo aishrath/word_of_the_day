@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|harebell|a widely distributed bellflower with slender stems and pale blue flowers in late summer.|
+|undercurrent|an underlying feeling or influence, especially one that is contrary to the prevailing atmosphere and is not expressed openly|
