@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|vegetably|of or relating to plants or plant matter, especially vegetables; characteristic or reminiscent of vegetables; containing vegetables.|
+|bone|any of the pieces of hard whitish tissue making up the skeleton in humans and other vertebrates|
