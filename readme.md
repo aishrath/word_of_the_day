@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|plummy|resembling a plum in taste, scent, or color|
+|vegetably|of or relating to plants or plant matter, especially vegetables; characteristic or reminiscent of vegetables; containing vegetables.|
