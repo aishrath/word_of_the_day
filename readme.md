@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bone|any of the pieces of hard whitish tissue making up the skeleton in humans and other vertebrates|
+|putrescine|an oily amine formed from arginine during putrefaction.|
