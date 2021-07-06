@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|putrescine|an oily amine formed from arginine during putrefaction.|
+|parboil|partly cook (food) by boiling|
