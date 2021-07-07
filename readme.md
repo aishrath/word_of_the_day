@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|parboil|partly cook (food) by boiling|
+|miracle|a surprising and welcome event that is not explicable by natural or scientific laws and is therefore considered to be the work of a divine agency|
