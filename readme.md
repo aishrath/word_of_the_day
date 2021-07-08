@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|upscaled|increased in size or quality|
+|rewash|wash (something) again.|
