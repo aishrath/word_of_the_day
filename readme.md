@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|morbid|characterized by an unusual interest in disturbing and unpleasant subjects, especially death and disease|
+|upscaled|increased in size or quality|
