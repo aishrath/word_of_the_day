@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rewash|wash (something) again.|
+|repacify|to pacify again.|
