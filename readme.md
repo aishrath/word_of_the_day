@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|stethoscope|a medical instrument for listening to the action of someone's heart or breathing, typically having a small disk-shaped resonator that is placed against the chest, and two tubes connected to earpieces.|
+|antiphonal|(in traditional western christian liturgy) (of a short sentence or its musical setting) sung, recited, or played alternately by two groups.|
