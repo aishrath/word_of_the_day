@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|antiphonal|(in traditional western christian liturgy) (of a short sentence or its musical setting) sung, recited, or played alternately by two groups.|
+|decile|each of ten equal groups into which a population can be divided according to the distribution of values of a particular variable|
