@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|decile|each of ten equal groups into which a population can be divided according to the distribution of values of a particular variable|
+|inflammatory|relating to or causing inflammation of a part of the body|
