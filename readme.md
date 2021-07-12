@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|immunology|the branch of medicine and biology concerned with immunity.|
+|rudbeckia|a north american plant of the daisy family, with yellow or orange flowers and a dark cone-shaped center.|
