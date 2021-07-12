@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|doofus|a stupid person|
+|immunology|the branch of medicine and biology concerned with immunity.|
