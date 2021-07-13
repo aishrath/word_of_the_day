@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rudbeckia|a north american plant of the daisy family, with yellow or orange flowers and a dark cone-shaped center.|
+|hubristic|excessively proud or self-confident|
