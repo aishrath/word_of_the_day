@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hubristic|excessively proud or self-confident|
+|skiascopy|= retinoscopy.|
