@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|employed|(of a person) having a paid job|
+|dolma|a dish consisting of ingredients such as meat and spiced rice wrapped in vine or cabbage leaves, popular in the balkans, the caucasus, and the eastern mediterranean.|
