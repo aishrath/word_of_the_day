@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|dolma|a dish consisting of ingredients such as meat and spiced rice wrapped in vine or cabbage leaves, popular in the balkans, the caucasus, and the eastern mediterranean.|
+|stinkweed|any of a number of plants with a strong or fetid smell, e.g. jimson weed.|
