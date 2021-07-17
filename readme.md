@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|stinkweed|any of a number of plants with a strong or fetid smell, e.g. jimson weed.|
+|salmonberry|a north american bramble that bears pink fruit similar to raspberries.|
