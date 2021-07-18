@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|salmonberry|a north american bramble that bears pink fruit similar to raspberries.|
+|prevalent|widespread in a particular area or at a particular time|
