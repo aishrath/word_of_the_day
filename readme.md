@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|prevalent|widespread in a particular area or at a particular time|
+|vision|the faculty or state of being able to see|
