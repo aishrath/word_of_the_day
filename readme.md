@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|preceptor|a teacher or instructor.|
+|perimysium|the sheath of connective tissue surrounding a bundle of muscle fibers.|
