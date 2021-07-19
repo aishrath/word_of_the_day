@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|vision|the faculty or state of being able to see|
+|preceptor|a teacher or instructor.|
