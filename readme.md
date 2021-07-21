@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|haberdashery|men's clothing and accessories.|
+|dene|(usually in place names) a vale, especially the deep, narrow wooded valley of a small river|
