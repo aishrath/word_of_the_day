@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|dene|(usually in place names) a vale, especially the deep, narrow wooded valley of a small river|
+|mars|a small reddish planet which is the fourth in order from the sun and is periodically visible to the naked eye.|
