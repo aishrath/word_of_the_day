@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|emetine|an alkaloid present in ipecac and formerly used in the treatment of amoebic infections and as an emetic in aversion therapy.|
+|relaxable|of a law, restriction, etc.: that admits of being made less severe, strict, or exacting; that may be set aside in certain circumstances.|
