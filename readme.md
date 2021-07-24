@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|relaxable|of a law, restriction, etc.: that admits of being made less severe, strict, or exacting; that may be set aside in certain circumstances.|
+|trident|a three-pronged spear, especially as an attribute of poseidon (neptune) or britannia.|
