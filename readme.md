@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|trident|a three-pronged spear, especially as an attribute of poseidon (neptune) or britannia.|
+|erumpent|bursting forth or through a surface|
