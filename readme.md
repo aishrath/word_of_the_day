@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|erumpent|bursting forth or through a surface|
+|line|a long, narrow mark or band|
