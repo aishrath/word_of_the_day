@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|line|a long, narrow mark or band|
+|glimmer|shine faintly with a wavering light|
