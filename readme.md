@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|payroll|a list of a company's employees and the amount of money they are to be paid|
+|hauler|a person or company employed in the transport of goods or materials by road.|
