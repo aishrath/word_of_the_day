@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|agrapha|with plural agreement. sayings which are attributed to jesus but are not recorded in the canonical gospels.|
+|payroll|a list of a company's employees and the amount of money they are to be paid|
