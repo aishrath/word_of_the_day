@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ultramontane|advocating supreme papal authority in matters of faith and discipline|
+|carver|a person who carves wood, stone, ivory, coral, etc., especially professionally|
