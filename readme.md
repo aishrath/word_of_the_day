@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rector|(in the episcopal church) a member of the clergy who has charge of a parish.|
+|germanic|relating to or denoting the branch of the indo-european language family that includes english, german, dutch, frisian, the scandinavian languages, and gothic.|
