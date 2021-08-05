@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|carver|a person who carves wood, stone, ivory, coral, etc., especially professionally|
+|rector|(in the episcopal church) a member of the clergy who has charge of a parish.|
