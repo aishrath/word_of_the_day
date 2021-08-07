@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|artsy|making a strong, affected, or pretentious display of being artistic or interested in the arts|
+|greedy|having or showing an intense and selfish desire for something, especially wealth or power|
