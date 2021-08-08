@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|zit|a pimple on the skin.|
+|bootlegging|the illegal manufacture, distribution, or sale of goods, especially alcohol or recordings|
