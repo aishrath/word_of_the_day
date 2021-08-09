@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|niggling|causing slight but persistent annoyance, discomfort, or anxiety|
+|pronto|promptly; quickly|
