@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bootlegging|the illegal manufacture, distribution, or sale of goods, especially alcohol or recordings|
+|niggling|causing slight but persistent annoyance, discomfort, or anxiety|
