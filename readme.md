@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|newsroom|the area in a newspaper or broadcasting office where news is written and edited.|
+|nunnery|a building or group of buildings in which nuns live as a religious community; a convent.|
