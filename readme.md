@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pronto|promptly; quickly|
+|newsroom|the area in a newspaper or broadcasting office where news is written and edited.|
