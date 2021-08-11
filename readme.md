@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|xenophobically|in a xenophobic manner.|
+|dominant|most important, powerful, or influential|
