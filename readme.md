@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|dominant|most important, powerful, or influential|
+|minter|a person who mints money.|
