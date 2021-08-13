@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|earthshine|the glow caused by sunlight reflected off the earth, especially on the darker portion of a crescent moon.|
+|cooter|a north american river turtle with a dull brown shell and typically having yellow stripes on the head.|
