@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|revitalize|imbue (something) with new life and vitality|
+|canalize|convert (a river) into a navigable canal|
