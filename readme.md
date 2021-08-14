@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|canalize|convert (a river) into a navigable canal|
+|geocorona|a luminous and extremely tenuous region at the outer limit of the exosphere, consisting chiefly of ionized hydrogen and extending to approx. fifteen earth radii; also called protonosphere.|
