@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|filmset|set (material to be printed) by projecting it onto photographic film from which the printing surface is prepared.|
+|redistricting|the action or process of dividing or organizing an area into new political or school districts|
