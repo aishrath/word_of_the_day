@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|sucker|a gullible or easily deceived person|
+|crowberry|a creeping heather-like dwarf shrub with small, needle-shaped leaves and black or reddish berries.|
