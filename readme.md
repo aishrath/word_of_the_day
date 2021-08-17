@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|crowberry|a creeping heather-like dwarf shrub with small, needle-shaped leaves and black or reddish berries.|
+|instrumental|serving as a means of pursuing an aim or policy|
