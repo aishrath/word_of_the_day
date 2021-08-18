@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|reportedly|according to what some say (used to express the speaker's belief that the information given is not necessarily true)|
+|nonuniform|not uniform, regular, or constant; varying.|
