@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|instrumental|serving as a means of pursuing an aim or policy|
+|reportedly|according to what some say (used to express the speaker's belief that the information given is not necessarily true)|
