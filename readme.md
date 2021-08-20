@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|etching|a print produced by the process of etching|
+|lysate|a preparation containing the products of lysis of cells.|
