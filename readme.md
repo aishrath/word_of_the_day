@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|lysate|a preparation containing the products of lysis of cells.|
+|bailie|a municipal officer and magistrate in scotland.|
