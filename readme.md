@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|urban|in, relating to, or characteristic of a town or city|
+|schematic|(of a diagram or other representation) symbolic and simplified|
