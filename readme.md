@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bailie|a municipal officer and magistrate in scotland.|
+|urban|in, relating to, or characteristic of a town or city|
