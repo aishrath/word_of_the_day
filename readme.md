@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|schematic|(of a diagram or other representation) symbolic and simplified|
+|anteverted|(of an organ of the body, especially the uterus) inclined forward.|
