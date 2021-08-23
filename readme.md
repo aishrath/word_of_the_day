@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hover|remain in one place in the air|
+|precursory|preceding something in time, development, or position; preliminary|
