@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|precursory|preceding something in time, development, or position; preliminary|
+|obsessor|a person who behaves in an obsessive manner.|
