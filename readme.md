@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|obsessor|a person who behaves in an obsessive manner.|
+|nabe|a neighborhood.|
