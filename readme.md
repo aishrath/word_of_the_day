@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|angiosperm|a plant that has flowers and produces seeds enclosed within a carpel. the angiosperms are a large group and include herbaceous plants, shrubs, grasses, and most trees.|
+|stern|(of a person or their manner) serious and unrelenting, especially in the assertion of authority and exercise of discipline|
