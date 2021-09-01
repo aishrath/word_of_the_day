@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|stern|(of a person or their manner) serious and unrelenting, especially in the assertion of authority and exercise of discipline|
+|coonskin|the pelt of a raccoon|
