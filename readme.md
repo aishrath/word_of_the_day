@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|endurable|able to be endured; bearable|
+|woofer|a loudspeaker designed to reproduce low frequencies.|
