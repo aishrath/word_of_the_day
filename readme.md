@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|woofer|a loudspeaker designed to reproduce low frequencies.|
+|citizenly|of, relating to, or characteristic of a citizen.|
