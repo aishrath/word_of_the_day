@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|citizenly|of, relating to, or characteristic of a citizen.|
+|haymaker|a person who is involved in making hay, especially one who tosses and spreads it to dry after mowing.|
