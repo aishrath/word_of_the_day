@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pussley|purslane, portulaca oleracea.|
+|decaying|rotting or decomposing through the action of bacteria and fungi|
