@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|effulgent|shining brightly; radiant.|
+|cohesiveness|the quality of forming a united whole|
