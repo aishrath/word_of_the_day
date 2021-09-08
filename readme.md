@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|prepay|pay or pay for in advance|
+|underemployed|(of a person) not having enough paid work or not doing work that makes full use of their skills and abilities|
