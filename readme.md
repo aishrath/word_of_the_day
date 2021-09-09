@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tricot|a fine knitted fabric made of a natural or man-made fiber|
+|ultracentrifuge|a very fast centrifuge used to precipitate large biological molecules from solution or separate them by their different rates of sedimentation.|
