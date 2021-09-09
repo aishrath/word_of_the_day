@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|underemployed|(of a person) not having enough paid work or not doing work that makes full use of their skills and abilities|
+|tricot|a fine knitted fabric made of a natural or man-made fiber|
