@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|assist|help (someone), typically by doing a share of the work|
+|diabolicalness|the quality or character of being diabolical; devilishness; wickedness.|
