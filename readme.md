@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|diabolicalness|the quality or character of being diabolical; devilishness; wickedness.|
+|terrapin|a small edible turtle with lozenge-shaped markings on its shell, found in coastal marshes of the eastern us.|
