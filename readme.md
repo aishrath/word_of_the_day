@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|daily|done, produced, or occurring every day or every weekday|
+|lateral|of, at, toward, or from the side or sides|
