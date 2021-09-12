@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|terrapin|a small edible turtle with lozenge-shaped markings on its shell, found in coastal marshes of the eastern us.|
+|daily|done, produced, or occurring every day or every weekday|
