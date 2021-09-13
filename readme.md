@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|lateral|of, at, toward, or from the side or sides|
+|accolade|an award or privilege granted as a special honor or as an acknowledgment of merit|
