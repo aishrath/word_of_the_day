@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|disseminated|having spread throughout an organ or the body|
+|pneumatic|containing or operated by air or gas under pressure|
