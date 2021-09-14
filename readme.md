@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mourningly|in a mourning manner.|
+|disseminated|having spread throughout an organ or the body|
