@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pneumatic|containing or operated by air or gas under pressure|
+|monumentally|to a very great or extreme degree|
