@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|monumentally|to a very great or extreme degree|
+|frazzled|showing the effects of exhaustion or strain|
