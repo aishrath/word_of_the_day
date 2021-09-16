@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|crowd|a large number of people gathered together in a disorganized or unruly way|
+|improperly|in a manner not in accordance with accepted standards, especially of morality or honesty|
