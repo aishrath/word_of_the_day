@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|frazzled|showing the effects of exhaustion or strain|
+|crowd|a large number of people gathered together in a disorganized or unruly way|
