@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hackbut|an early type of portable firearm; = "arquebus".|
+|intaglioed|engraved or represented by an engraving|
