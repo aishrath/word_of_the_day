@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|intaglioed|engraved or represented by an engraving|
+|inane|silly; stupid|
