@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tangible|perceptible by touch|
+|septuplet|each of seven children born at one birth.|
