@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|orbiculate|orbicular.|
+|calumnious|(of a statement) false and defamatory; slanderous|
