@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|septuplet|each of seven children born at one birth.|
+|orbiculate|orbicular.|
