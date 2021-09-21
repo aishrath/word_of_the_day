@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|calumnious|(of a statement) false and defamatory; slanderous|
+|pressing|(of a problem, need, or situation) requiring quick or immediate action or attention|
