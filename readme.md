@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|aesthesia|sensory capacity or ability of an organism, organ, etc.; an instance of this.|
+|predominantly|mainly; for the most part|
