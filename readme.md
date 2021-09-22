@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|aphrodisiac|a food, drink, or drug that stimulates sexual desire|
+|aesthesia|sensory capacity or ability of an organism, organ, etc.; an instance of this.|
