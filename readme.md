@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|predominantly|mainly; for the most part|
+|figment|a thing that someone believes to be real but that exists only in their imagination|
