@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|figment|a thing that someone believes to be real but that exists only in their imagination|
+|lassi|a sweet or savory indian drink made from a yogurt or buttermilk base with water.|
