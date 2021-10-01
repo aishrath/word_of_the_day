@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|lassi|a sweet or savory indian drink made from a yogurt or buttermilk base with water.|
+|bronchus|any of the major air passages of the lungs which diverge from the windpipe.|
