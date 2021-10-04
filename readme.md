@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|thereto|to that or that place|
+|arability|the quality of being usable as arable land.|
