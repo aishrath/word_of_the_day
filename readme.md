@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|arability|the quality of being usable as arable land.|
+|inoffensive|not objectionable or harmful|
