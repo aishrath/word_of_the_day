@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|inoffensive|not objectionable or harmful|
+|maturation|the action or process of maturing|
