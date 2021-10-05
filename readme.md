@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|maturation|the action or process of maturing|
+|rafting|the sport or pastime of traveling down a river on a raft|
