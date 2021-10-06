@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rafting|the sport or pastime of traveling down a river on a raft|
+|translatory|characterized by, involving, or performing translation or transference from one language, form, person, etc., to another.|
