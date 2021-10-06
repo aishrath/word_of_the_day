@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|translatory|characterized by, involving, or performing translation or transference from one language, form, person, etc., to another.|
+|artistic|having or revealing natural creative skill|
