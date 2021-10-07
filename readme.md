@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unloose|undo; let free|
+|untrained|not having been trained in a particular skill|
