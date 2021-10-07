@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|artistic|having or revealing natural creative skill|
+|unloose|undo; let free|
