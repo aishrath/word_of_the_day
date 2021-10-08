@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|untrained|not having been trained in a particular skill|
+|fireship|a ship loaded with burning material and explosives and set adrift to ignite and blow up an enemy's ships.|
