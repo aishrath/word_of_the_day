@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|struma|a swelling of the thyroid gland; a goiter.|
+|impermissible|too bad to be allowed|
