@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|impermissible|too bad to be allowed|
+|unknowing|not knowing or aware|
