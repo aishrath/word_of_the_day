@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|overbilling|the action of overbill; a charge in excess of that which is due.|
+|whinny|a gentle, high-pitched neigh.|
