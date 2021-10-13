@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tubbable|(especially of fabric or clothes) suitable for washing in a tub or washing machine|
+|pointed|having a sharpened or tapered tip or end|
