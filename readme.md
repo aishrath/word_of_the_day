@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pointed|having a sharpened or tapered tip or end|
+|monolithically|in a monolithic form or manner.|
