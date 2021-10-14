@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|uninstall|remove (an application or file) from a computer.|
+|ad|an advertisement|
