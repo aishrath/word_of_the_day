@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|monolithically|in a monolithic form or manner.|
+|uninstall|remove (an application or file) from a computer.|
