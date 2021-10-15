@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ad|an advertisement|
+|shrunken|having become or been made smaller in size|
