@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|shrunken|having become or been made smaller in size|
+|shall|(in the first person) expressing the future tense|
