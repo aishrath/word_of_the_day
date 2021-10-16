@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|manservant|a male servant.|
+|knackered|very tired; exhausted|
