@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|shall|(in the first person) expressing the future tense|
+|manservant|a male servant.|
