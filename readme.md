@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|knackered|very tired; exhausted|
+|electrotype|a copy of something made by the electrolytic deposition of copper on a mold.|
