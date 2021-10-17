@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|electrotype|a copy of something made by the electrolytic deposition of copper on a mold.|
+|perceptual|relating to the ability to interpret or become aware of something through the senses|
