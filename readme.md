@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|immunosorbent|relating to or denoting techniques making use of the absorption of antibodies by insoluble preparations of antigens.|
+|timeworn|damaged or impaired, or made less striking or attractive, as a result of age or much use|
