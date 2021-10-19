@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|timeworn|damaged or impaired, or made less striking or attractive, as a result of age or much use|
+|cattail|a tall, reedlike marsh plant with a dark brown, velvety cylindrical head of numerous tiny flowers.|
