@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|newsgirl|a girl who sells or delivers newspapers.|
+|regrading|the action or process of grading something again or differently|
