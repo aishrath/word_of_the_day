@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|regrading|the action or process of grading something again or differently|
+|resolder|to solder again.|
