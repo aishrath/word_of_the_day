@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bison|a humpbacked shaggy-haired wild ox native to north america and europe.|
+|dump|a site for depositing garbage.|
