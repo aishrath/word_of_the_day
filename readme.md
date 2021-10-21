@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|resolder|to solder again.|
+|bison|a humpbacked shaggy-haired wild ox native to north america and europe.|
