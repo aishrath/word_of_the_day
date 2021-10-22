@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|dump|a site for depositing garbage.|
+|ceiling|the upper interior surface of a room or other similar compartment|
