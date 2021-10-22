@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ceiling|the upper interior surface of a room or other similar compartment|
+|lodger|a roomer|
