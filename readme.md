@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|lodger|a roomer|
+|banister|the structure formed by the uprights and handrail at the side of a staircase|
