@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|banister|the structure formed by the uprights and handrail at the side of a staircase|
+|fresnel|a flat lens made of a number of concentric rings, to reduce spherical aberration.|
