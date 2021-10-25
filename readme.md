@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fresnel|a flat lens made of a number of concentric rings, to reduce spherical aberration.|
+|unembarrassed|not feeling or showing embarrassment.|
