@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unembarrassed|not feeling or showing embarrassment.|
+|hardcover|(of a book) bound between rigid boards covered in cloth, paper, leather, or film|
