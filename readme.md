@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hardcover|(of a book) bound between rigid boards covered in cloth, paper, leather, or film|
+|overgenerous|excessively generous|
