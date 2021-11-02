@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|effective|successful in producing a desired or intended result|
+|nabob|a muslim official or governor under the mogul empire.|
