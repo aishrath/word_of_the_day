@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|overgenerous|excessively generous|
+|effective|successful in producing a desired or intended result|
