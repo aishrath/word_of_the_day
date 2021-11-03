@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|homaging|the action of rendering or paying homage; an instance of this.|
+|antipasto|(in italian cooking) an appetizer typically consisting of olives, anchovies, cheeses, and meats.|
