@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|nabob|a muslim official or governor under the mogul empire.|
+|homaging|the action of rendering or paying homage; an instance of this.|
