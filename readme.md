@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ogress|a female ogre.|
+|ouabain|a toxic compound obtained from certain trees, used as a very rapid cardiac stimulant. it is a polycyclic glycoside.|
