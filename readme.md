@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|preeminence|the fact of surpassing all others; superiority|
+|surcease|cessation|
