@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|surcease|cessation|
+|dialectic|the art of investigating or discussing the truth of opinions.|
