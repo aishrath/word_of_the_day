@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|disenfranchise|deprive (someone) of the right to vote|
+|breach|an act of breaking or failing to observe a law, agreement, or code of conduct|
