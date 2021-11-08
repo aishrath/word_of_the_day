@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tarmac|material used for surfacing roads or other outdoor areas, consisting of crushed rock mixed with tar|
+|anagrammatize|make an anagram of (a word, phrase, or name).|
