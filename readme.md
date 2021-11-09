@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|disparager|a person who criticizes someone as being of little worth|
+|coadapted|mutually adapted; mutually accommodating.|
