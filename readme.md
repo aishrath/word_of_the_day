@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|coadapted|mutually adapted; mutually accommodating.|
+|acephalic|having or recognizing no ruler, head, or chief; leaderless.|
