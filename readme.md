@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|each|used to refer to every one of two or more people or things, regarded and identified separately|
+|embarrassingly|in a manner or to a degree that causes self-consciousness, shame, or awkwardness|
