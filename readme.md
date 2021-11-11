@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pygmean|very small.|
+|bohunk|an immigrant from central or southeastern europe, especially a laborer.|
