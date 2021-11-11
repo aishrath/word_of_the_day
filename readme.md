@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hallelujah|god be praised (uttered in worship or as an expression of rejoicing)|
+|fatalism|the belief that all events are predetermined and therefore inevitable|
