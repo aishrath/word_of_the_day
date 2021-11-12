@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|prostration|the state of lying stretched out on the ground with one's face downward.|
+|inflate|fill (a balloon, tire, or other expandable structure) with air or gas so that it becomes distended.|
