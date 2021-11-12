@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|bohunk|an immigrant from central or southeastern europe, especially a laborer.|
+|prostration|the state of lying stretched out on the ground with one's face downward.|
