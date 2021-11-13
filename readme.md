@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|inflate|fill (a balloon, tire, or other expandable structure) with air or gas so that it becomes distended.|
+|mask|a covering for all or part of the face, worn as a disguise, or to amuse or terrify other people.|
