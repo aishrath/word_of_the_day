@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|river|a large natural stream of water flowing in a channel to the sea, a lake, or another such stream|
+|nondairy|containing no milk or milk products|
