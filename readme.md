@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|nondairy|containing no milk or milk products|
+|plicature|a fold, a ridge; specifically = "plica". in early use also: †a plexus (obsolete, rare). also figurative. now chiefly botany.|
