@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|plicature|a fold, a ridge; specifically = "plica". in early use also: †a plexus (obsolete, rare). also figurative. now chiefly botany.|
+|corked|(of wine) spoiled by a musty taint arising from a fault in the cork|
