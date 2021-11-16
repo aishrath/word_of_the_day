@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|corked|(of wine) spoiled by a musty taint arising from a fault in the cork|
+|rapist|a person who commits rape.|
