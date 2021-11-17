@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rapist|a person who commits rape.|
+|retrorse|turned or pointing backward|
