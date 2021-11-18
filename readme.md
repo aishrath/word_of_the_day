@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|octosyllabic|having or written in lines that have eight syllables.|
+|mizuna|an oriental rape of a variety with finely cut leaves that are eaten as a salad vegetable.|
