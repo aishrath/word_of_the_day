@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|retrorse|turned or pointing backward|
+|octosyllabic|having or written in lines that have eight syllables.|
