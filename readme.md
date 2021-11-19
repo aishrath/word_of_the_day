@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|intelligencer|a person who gathers intelligence, especially an informer, spy, or secret agent.|
+|kobo|a monetary unit of nigeria, equal to one hundredth of a naira.|
