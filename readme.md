@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|melinite|a poorly characterized clay resembling yellow ochre and containing ferric iron.|
+|multiracial|made up of or relating to people of several racial or ethnic groups|
