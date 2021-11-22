@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|modish|conforming to or following what is currently popular and fashionable|
+|novation|the substitution of a new contract in place of an old one.|
