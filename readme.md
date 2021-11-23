@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|novation|the substitution of a new contract in place of an old one.|
+|stereotypy|the persistent repetition of an act, especially by an animal, for no obvious purpose|
