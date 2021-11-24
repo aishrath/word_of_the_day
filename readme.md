@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|subsequently|after a particular thing has happened; afterward|
+|knapweed|a tough-stemmed eurasian plant that typically has purple thistle-like flower heads, occurring chiefly in grassland and on roadsides.|
