@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|knapweed|a tough-stemmed eurasian plant that typically has purple thistle-like flower heads, occurring chiefly in grassland and on roadsides.|
+|impeccably|in accordance with the highest standards; faultlessly|
