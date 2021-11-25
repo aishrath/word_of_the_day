@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|impeccably|in accordance with the highest standards; faultlessly|
+|platyhelminth|an invertebrate of the phylum platyhelminthes; a flatworm.|
