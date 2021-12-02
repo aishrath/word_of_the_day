@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mujahideen|guerrilla fighters in islamic countries, especially those who are fighting against non-muslim forces.|
+|unloved|not loved.|
