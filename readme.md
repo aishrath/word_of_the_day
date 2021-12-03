@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|naturally|without special help or intervention; in a natural manner|
+|scrubland|land consisting of scrub vegetation.|
