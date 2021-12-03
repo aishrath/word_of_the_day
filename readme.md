@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unloved|not loved.|
+|naturally|without special help or intervention; in a natural manner|
