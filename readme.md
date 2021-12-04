@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|overhanding|oversewing.|
+|alternating|(of two or more things) occurring in turn repeatedly|
