@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|scrubland|land consisting of scrub vegetation.|
+|overhanding|oversewing.|
