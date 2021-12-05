@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|anon|soon; shortly|
+|gritty|containing or covered with grit|
