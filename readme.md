@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|garrulous|excessively talkative, especially on trivial matters|
+|hogback|a long hill or mountain ridge with steep sides.|
