@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|adamantine|unbreakable|
+|butyrin|any of three glyceryl esters of butyric acid found naturally in butter.|
