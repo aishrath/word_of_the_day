@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|burning|on fire|
+|immaculate|(especially of a person or their clothes) perfectly clean, neat, or tidy|
