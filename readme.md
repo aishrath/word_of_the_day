@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|boxy|squarish in shape|
+|diffusional|of, characterized by, or involving diffusion.|
