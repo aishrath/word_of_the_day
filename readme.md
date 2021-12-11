@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|immaculate|(especially of a person or their clothes) perfectly clean, neat, or tidy|
+|boxy|squarish in shape|
