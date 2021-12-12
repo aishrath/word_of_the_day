@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fortified|(of a place) provided with defensive works as protection against attack|
+|cower|crouch down in fear|
