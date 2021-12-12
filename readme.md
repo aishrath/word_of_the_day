@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|diffusional|of, characterized by, or involving diffusion.|
+|fortified|(of a place) provided with defensive works as protection against attack|
