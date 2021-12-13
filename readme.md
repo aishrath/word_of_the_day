@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cower|crouch down in fear|
+|talkie|a movie with a soundtrack, as distinct from a silent film|
