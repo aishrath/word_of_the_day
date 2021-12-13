@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|talkie|a movie with a soundtrack, as distinct from a silent film|
+|tungstite|a yellow mineral consisting of hydrated tungsten oxide, typically occurring as a powdery coating on tungsten ores.|
