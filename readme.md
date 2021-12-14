@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|biennial|taking place every other year|
+|thereinto|into that place.|
