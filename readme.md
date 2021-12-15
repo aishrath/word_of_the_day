@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|thereinto|into that place.|
+|cyprinoid|a fish of a large group which includes the carps, suckers, and loaches, and (in some classification systems) the characins.|
