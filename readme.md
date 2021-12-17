@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fewness|the quality or fact of being few in number; small number; scantiness in number.|
+|medullated|of a nerve or nerve fibre: myelinated.|
