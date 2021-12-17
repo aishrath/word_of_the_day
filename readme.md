@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|medullated|of a nerve or nerve fibre: myelinated.|
+|laudable|(of an action, idea, or goal) deserving praise and commendation|
