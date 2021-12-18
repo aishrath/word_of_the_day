@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|proliferate|increase rapidly in numbers; multiply|
+|laddered|(of tights or stockings) having a run|
