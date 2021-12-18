@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|laudable|(of an action, idea, or goal) deserving praise and commendation|
+|proliferate|increase rapidly in numbers; multiply|
