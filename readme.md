@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|romp|(especially of a child or animal) play roughly and energetically|
+|unblinking|(of a person or their gaze or eyes) not blinking|
