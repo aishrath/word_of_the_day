@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|laddered|(of tights or stockings) having a run|
+|romp|(especially of a child or animal) play roughly and energetically|
