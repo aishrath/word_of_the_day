@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unblinking|(of a person or their gaze or eyes) not blinking|
+|resmelt|to smelt for a second or further time.|
