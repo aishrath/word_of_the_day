@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|resmelt|to smelt for a second or further time.|
+|cineaste|a filmmaker.|
