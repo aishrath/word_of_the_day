@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|urbanity|suavity, courteousness, and refinement of manner|
+|entourage|a group of people attending or surrounding an important person|
