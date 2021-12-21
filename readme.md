@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cineaste|a filmmaker.|
+|urbanity|suavity, courteousness, and refinement of manner|
