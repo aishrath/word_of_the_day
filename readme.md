@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|disquieting|inducing feelings of anxiety or worry|
+|requiescat|a wish or prayer for the repose of a dead person.|
