@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|requiescat|a wish or prayer for the repose of a dead person.|
+|straggle|move along slowly, typically in a small irregular group, so as to remain some distance behind the person or people in front|
