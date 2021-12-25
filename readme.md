@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|procuress|a female procurer.|
+|unalike|(of two or more things) differing from each other; not similar|
