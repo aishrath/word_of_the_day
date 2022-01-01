@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unalike|(of two or more things) differing from each other; not similar|
+|navelwort|a low plant of the borage family that resembles the forget-me-not and is cultivated for ground cover and rock gardens.|
