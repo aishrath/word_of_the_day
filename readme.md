@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|subsurface|the stratum or strata below the earth's surface|
+|gigabit|a unit of information equal to one billion (10⁹) or, strictly, 2³⁰ bits.|
