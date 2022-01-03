@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|idem|used in citations to indicate an author or work that has just been mentioned|
+|metope|a square space between triglyphs in a doric frieze.|
