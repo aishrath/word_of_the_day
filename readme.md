@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|gigabit|a unit of information equal to one billion (10⁹) or, strictly, 2³⁰ bits.|
+|idem|used in citations to indicate an author or work that has just been mentioned|
