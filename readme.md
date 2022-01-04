@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|catenary|a curve formed by a wire, rope, or chain hanging freely from two points and forming a u shape|
+|ouzel|a bird that resembles the blackbird, especially the ring ouzel.|
