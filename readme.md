@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|metope|a square space between triglyphs in a doric frieze.|
+|catenary|a curve formed by a wire, rope, or chain hanging freely from two points and forming a u shape|
