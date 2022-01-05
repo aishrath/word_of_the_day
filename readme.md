@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|paralanguage|the nonlexical component of communication by speech, for example intonation, pitch and speed of speaking, hesitation noises, gesture, and facial expression.|
+|underplot|a subordinate plot in a play, novel, or similar work.|
