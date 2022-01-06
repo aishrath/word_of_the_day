@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|gyoza|a japanese dish consisting of wonton wrappers stuffed with pork and cabbage.|
+|eggcup|a small cup for holding a boiled egg upright while it is being eaten.|
