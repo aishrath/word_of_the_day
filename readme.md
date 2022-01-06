@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|underplot|a subordinate plot in a play, novel, or similar work.|
+|gyoza|a japanese dish consisting of wonton wrappers stuffed with pork and cabbage.|
