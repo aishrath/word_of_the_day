@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|eggcup|a small cup for holding a boiled egg upright while it is being eaten.|
+|toxaphene|a synthetic amber waxy solid with an odor of chlorine and camphor, used as an insecticide. it is a chlorinated terpene.|
