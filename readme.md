@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|toxaphene|a synthetic amber waxy solid with an odor of chlorine and camphor, used as an insecticide. it is a chlorinated terpene.|
+|chard|a beet of a variety with broad white leaf stalks that may be prepared and eaten separately from the green parts of the leaf.|
