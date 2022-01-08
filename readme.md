@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|nutter|a crazy or eccentric person.|
+|filaria|a threadlike parasitic nematode worm that is transmitted by biting flies and mosquitoes, causing filariasis and related diseases.|
