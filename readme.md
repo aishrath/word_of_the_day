@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|expendable|of little significance when compared to an overall purpose, and therefore able to be abandoned|
+|siree|used for emphasis, especially after yes and no|
