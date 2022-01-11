@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|siree|used for emphasis, especially after yes and no|
+|overbid|(in an auction) make a higher bid than a previous bid|
