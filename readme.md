@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|scalp|the skin covering the head, excluding the face|
+|autonomically|in autonomic manner; autonomously, independently.|
