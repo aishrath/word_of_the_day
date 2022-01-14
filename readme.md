@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|autonomically|in autonomic manner; autonomously, independently.|
+|astronomically|according to astronomical principles|
