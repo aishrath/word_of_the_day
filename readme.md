@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|photonegative|(of an organism) tending to move away from light.|
+|adipocere|a grayish waxy substance formed by the decomposition of soft tissue in dead bodies subjected to moisture.|
