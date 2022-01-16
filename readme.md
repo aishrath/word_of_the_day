@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|adipocere|a grayish waxy substance formed by the decomposition of soft tissue in dead bodies subjected to moisture.|
+|minimalist|a person who advocates or practices minimalism in art or music.|
