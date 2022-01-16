@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|minimalist|a person who advocates or practices minimalism in art or music.|
+|moline|(of a cross) having each extremity broadened, split, and curved back.|
