@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|repackage|package again or differently|
+|unpolite|lacking in politeness or good manners; discourteous; rude. also as noun now chiefly north american.|
