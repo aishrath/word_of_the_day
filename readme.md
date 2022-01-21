@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cornel|a dogwood, especially of a dwarf variety.|
+|gist|the substance or essence of a speech or text|
