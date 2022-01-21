@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|gist|the substance or essence of a speech or text|
+|hominine|of, relating to, or characteristic of hominines; belonging to the subfamily homininae.|
