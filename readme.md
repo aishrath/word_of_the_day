@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|northerly|lying or moving in a northward position or direction|
+|theologize|engage in theological reasoning or speculation|
