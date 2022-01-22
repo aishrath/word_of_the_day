@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|hominine|of, relating to, or characteristic of hominines; belonging to the subfamily homininae.|
+|northerly|lying or moving in a northward position or direction|
