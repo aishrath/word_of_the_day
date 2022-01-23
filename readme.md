@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|theologize|engage in theological reasoning or speculation|
+|obliging|willing to do a service or kindness; helpful|
