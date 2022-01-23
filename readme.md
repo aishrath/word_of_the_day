@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|obliging|willing to do a service or kindness; helpful|
+|thoughtfulness|the state of being absorbed in thought|
