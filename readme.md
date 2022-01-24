@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|thoughtfulness|the state of being absorbed in thought|
+|parfocality|the property of being parfocal.|
