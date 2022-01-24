@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|parfocality|the property of being parfocal.|
+|disciplinarian|a person who believes in or practices firm discipline|
