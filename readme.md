@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|disciplinarian|a person who believes in or practices firm discipline|
+|eosin|a red fluorescent dye that is a bromine derivative of fluorescein, or one of its salts or other derivatives.|
