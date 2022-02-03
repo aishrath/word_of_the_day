@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|nuthouse|a home or hospital for people with mental illnesses.|
+|hearty|(of a person or their behavior) loudly vigorous and cheerful|
