@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|commendably|in a way that is deserving of praise|
+|groined|(of a vault) formed by the intersection of two barrel vaults, usually with plain groins without ribs.|
