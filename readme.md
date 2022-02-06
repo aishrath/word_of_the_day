@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|stupidly|in a way that lacks intelligence or common sense|
+|contentment|a state of happiness and satisfaction|
