@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|contentment|a state of happiness and satisfaction|
+|astir|in a state of excited movement|
