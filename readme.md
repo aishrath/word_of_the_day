@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|astir|in a state of excited movement|
+|ansate|= ansated.|
