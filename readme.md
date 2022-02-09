@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|scrollwork|decoration consisting of spiral lines or patterns, especially as cut by a scroll saw.|
+|contiguous|sharing a common border; touching|
