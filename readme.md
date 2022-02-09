@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|strictly|in a way that involves rigid enforcement or that demands obedience|
+|scrollwork|decoration consisting of spiral lines or patterns, especially as cut by a scroll saw.|
