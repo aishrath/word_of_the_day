@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|contiguous|sharing a common border; touching|
+|cooler|an insulated container for keeping food and drink cool.|
