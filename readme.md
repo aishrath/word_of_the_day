@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|civicism|civic quality, state, or behaviour. also: (chiefly politics) the ideology and principles of citizenship and civil government; a social or political system based on this.|
+|fibrillate|(of a muscle, especially in the heart) make a quivering movement due to uncoordinated contraction of the individual fibrils|
