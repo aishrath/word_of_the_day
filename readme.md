@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ptarmigan|a northern grouse of mountainous and arctic regions, with feathered legs and feet and plumage that typically changes to white in winter.|
+|civicism|civic quality, state, or behaviour. also: (chiefly politics) the ideology and principles of citizenship and civil government; a social or political system based on this.|
