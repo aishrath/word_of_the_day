@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tablet|a flat slab of stone, clay, or wood, used especially for an inscription|
+|urbanist|an advocate of or expert in city planning.|
