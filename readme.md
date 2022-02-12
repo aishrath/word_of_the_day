@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fibrillate|(of a muscle, especially in the heart) make a quivering movement due to uncoordinated contraction of the individual fibrils|
+|tablet|a flat slab of stone, clay, or wood, used especially for an inscription|
