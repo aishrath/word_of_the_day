@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tag|a label attached to someone or something for the purpose of identification or to give other information|
+|peasantry|smallholders and agricultural laborers of low social status (chiefly in historical use or with reference to subsistence farming in poorer countries)|
