@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|urbanist|an advocate of or expert in city planning.|
+|tag|a label attached to someone or something for the purpose of identification or to give other information|
