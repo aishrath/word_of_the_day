@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|abduce|= "abduct".|
+|yokozuna|a grand champion sumo wrestler|
