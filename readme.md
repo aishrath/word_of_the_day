@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|yokozuna|a grand champion sumo wrestler|
+|millibar|one thousandth of a bar, the cgs unit of atmospheric pressure equivalent to 100 pascals|
