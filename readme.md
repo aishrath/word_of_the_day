@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|millibar|one thousandth of a bar, the cgs unit of atmospheric pressure equivalent to 100 pascals|
+|breezeway|a roofed outdoor passage, as between a house and a garage.|
