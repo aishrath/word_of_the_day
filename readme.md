@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cholecystectomy|surgical removal of the gallbladder.|
+|superabound|be very or too abundant|
