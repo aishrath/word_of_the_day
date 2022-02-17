@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|entomologist|a person who studies or is an expert in the branch of zoology concerned with insects|
+|cholecystectomy|surgical removal of the gallbladder.|
