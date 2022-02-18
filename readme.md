@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|superabound|be very or too abundant|
+|aneuploidy|the condition of having an abnormal number of chromosomes in a haploid set|
