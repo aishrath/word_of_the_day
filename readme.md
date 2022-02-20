@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|detestable|deserving intense dislike|
+|distrust|the feeling that someone or something cannot be relied upon|
