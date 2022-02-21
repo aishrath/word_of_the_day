@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|distrust|the feeling that someone or something cannot be relied upon|
+|harshness|the quality of being unpleasantly rough or jarring to the senses|
