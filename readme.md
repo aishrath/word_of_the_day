@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|interchain|existing between different polymer chains|
+|micrometeorite|a micrometeoroid that has entered the earth's atmosphere.|
