@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|micrometeorite|a micrometeoroid that has entered the earth's atmosphere.|
+|nonslip|designed to prevent slipping|
