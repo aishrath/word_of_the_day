@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|nonslip|designed to prevent slipping|
+|unreconcilable|not reconcilable; = "irreconcilable" 2.|
