@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pointless|having little or no sense, use, or purpose|
+|agueweed|boneset, eupatorium perfoliatum.|
