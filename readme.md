@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unreconcilable|not reconcilable; = "irreconcilable" 2.|
+|pointless|having little or no sense, use, or purpose|
