@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|agueweed|boneset, eupatorium perfoliatum.|
+|dour|relentlessly severe, stern, or gloomy in manner or appearance|
