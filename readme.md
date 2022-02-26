@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unclog|remove accumulated matter from|
+|toluene|a colorless liquid hydrocarbon present in coal tar and petroleum and used as a solvent and in organic synthesis.|
