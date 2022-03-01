@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|marshmallowy|resembling a marshmallow, especially in sweetness or softness of texture; (frequently figurative) cloying, sentimental.|
+|retail|the sale of goods to the public in relatively small quantities for use or consumption rather than for resale|
