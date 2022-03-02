@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|longshore|existing on, frequenting, or moving along the seashore|
+|defilement|the action of defiling or the state of being defiled|
