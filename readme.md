@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|retail|the sale of goods to the public in relatively small quantities for use or consumption rather than for resale|
+|longshore|existing on, frequenting, or moving along the seashore|
