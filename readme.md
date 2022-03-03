@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ballhawk|a skilled ball player, in particular a football or basketball player adept at stealing or intercepting the ball or an outfielder in baseball skilled at catching fly balls.|
+|sniffer|a person who sniffs, especially one who sniffs a drug or toxic substance|
