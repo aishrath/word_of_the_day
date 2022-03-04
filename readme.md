@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unconfined|not confined to a limited space|
+|seabird|a bird that frequents the sea or coast.|
