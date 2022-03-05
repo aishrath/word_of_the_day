@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|seabird|a bird that frequents the sea or coast.|
+|allogenic|(of a mineral or sediment) transported to its present position from elsewhere.|
