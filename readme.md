@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|allogenic|(of a mineral or sediment) transported to its present position from elsewhere.|
+|scute|a thickened horny or bony plate on a turtle's shell or on the back of a crocodile, stegosaurus, etc.|
