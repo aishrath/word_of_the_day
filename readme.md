@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fundamental|forming a necessary base or core; of central importance|
+|pinnulate|having pinnules.|
