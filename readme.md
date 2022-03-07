@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|pinnulate|having pinnules.|
+|labyrinthine|(of a network) like a labyrinth; irregular and twisting|
