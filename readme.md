@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|labyrinthine|(of a network) like a labyrinth; irregular and twisting|
+|stasis|a period or state of inactivity or equilibrium|
