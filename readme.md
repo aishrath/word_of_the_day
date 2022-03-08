@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|monomania|exaggerated or obsessive enthusiasm for or preoccupation with one thing|
+|salable|fit or able to be sold|
