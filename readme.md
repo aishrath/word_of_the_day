@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|stasis|a period or state of inactivity or equilibrium|
+|monomania|exaggerated or obsessive enthusiasm for or preoccupation with one thing|
