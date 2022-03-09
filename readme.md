@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|psalmist|the author or composer of a psalm, especially of any of the biblical psalms.|
+|collared|(of a garment) having a collar|
