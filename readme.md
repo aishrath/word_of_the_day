@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|collared|(of a garment) having a collar|
+|porridge|a dish consisting of oatmeal or another meal or cereal boiled in water or milk.|
