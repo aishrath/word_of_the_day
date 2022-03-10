@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|porridge|a dish consisting of oatmeal or another meal or cereal boiled in water or milk.|
+|confirmatory|serving to establish the truth or correctness of something that is suspected or reported|
