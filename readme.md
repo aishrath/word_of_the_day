@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|confirmatory|serving to establish the truth or correctness of something that is suspected or reported|
+|quantum|a discrete quantity of energy proportional in magnitude to the frequency of the radiation it represents.|
