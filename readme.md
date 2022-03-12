@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|obsequious|obedient or attentive to an excessive or servile degree|
+|cogent|(of an argument or case) clear, logical, and convincing|
