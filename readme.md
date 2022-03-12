@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cogent|(of an argument or case) clear, logical, and convincing|
+|maul|(of an animal) wound (a person or animal) by scratching and tearing|
