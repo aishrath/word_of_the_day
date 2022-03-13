@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|medusal|of, relating to, or resembling a medusa; = medusan.|
+|remissible|(especially of sins) able to be pardoned.|
