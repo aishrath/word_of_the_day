@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|maul|(of an animal) wound (a person or animal) by scratching and tearing|
+|medusal|of, relating to, or resembling a medusa; = medusan.|
