@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|magnetosphere|the region surrounding the earth or another astronomical body in which its magnetic field is the predominant effective magnetic field.|
+|profuse|(especially of something offered or discharged) exuberantly plentiful; abundant|
