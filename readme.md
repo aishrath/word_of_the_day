@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|remissible|(especially of sins) able to be pardoned.|
+|magnetosphere|the region surrounding the earth or another astronomical body in which its magnetic field is the predominant effective magnetic field.|
