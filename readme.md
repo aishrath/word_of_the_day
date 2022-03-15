@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|profuse|(especially of something offered or discharged) exuberantly plentiful; abundant|
+|politicker|a politician, especially one motivated by political expediency; a person who engages in political activity out of self-interest.|
