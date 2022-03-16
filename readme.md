@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|oldster|an older person|
+|uncaring|not displaying sympathy or concern for others|
