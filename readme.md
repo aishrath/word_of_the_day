@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|uncaring|not displaying sympathy or concern for others|
+|inadvertently|without intention; accidentally|
