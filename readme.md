@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|inadvertently|without intention; accidentally|
+|monomorphic|having or existing in only one form.|
