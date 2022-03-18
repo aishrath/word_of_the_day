@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ontogenesis|the development of an individual organism or anatomical or behavioral feature from the earliest stage to maturity.|
+|unseaworthy|(of a boat or ship) not in a good enough condition to sail on the sea.|
