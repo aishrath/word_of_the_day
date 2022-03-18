@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|theoretically|in a way that relates to the theory of a subject or area of study rather than its practical application|
+|ontogenesis|the development of an individual organism or anatomical or behavioral feature from the earliest stage to maturity.|
