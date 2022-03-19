@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|grooming|the practice of brushing and cleaning the coat of a horse, dog, or other animal|
+|zoogeography|the branch of zoology that deals with the geographical distribution of animals.|
