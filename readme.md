@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|zoogeography|the branch of zoology that deals with the geographical distribution of animals.|
+|photodissociate|to dissociate by means of light. also without object: to undergo photodissociation.|
