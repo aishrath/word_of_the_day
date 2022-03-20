@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|photodissociate|to dissociate by means of light. also without object: to undergo photodissociation.|
+|rhizotomy|medical herbalism or botany. compare rhizotomist.|
