@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|rhizotomy|medical herbalism or botany. compare rhizotomist.|
+|earlship|the office, rank, or title of earl; the period in which an earl holds his title. also used with possessive adjective as an honorific title (as "your earlship", etc.).|
