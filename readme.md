@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|picaro|a rogue|
+|iced|(of a drink or other liquid) cooled in or mixed with pieces of ice|
