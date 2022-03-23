@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|iced|(of a drink or other liquid) cooled in or mixed with pieces of ice|
+|maid|a female domestic servant.|
