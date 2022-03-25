@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|shafting|a system of connected shafts for transmitting motive power in a machine.|
+|polynuclear|(of a complex) containing more than one metal atom.|
