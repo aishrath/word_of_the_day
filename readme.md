@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|spillover|an instance of overflowing or spreading into another area|
+|shafting|a system of connected shafts for transmitting motive power in a machine.|
