@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|polynuclear|(of a complex) containing more than one metal atom.|
+|cheapo|inexpensive and typically of inferior quality|
