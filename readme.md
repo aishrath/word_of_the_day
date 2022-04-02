@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unkissed|not kissed; without being kissed.|
+|everywoman|an ordinary or typical woman|
