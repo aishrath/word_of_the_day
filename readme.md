@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cheapo|inexpensive and typically of inferior quality|
+|unkissed|not kissed; without being kissed.|
