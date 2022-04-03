@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|everywoman|an ordinary or typical woman|
+|dubbin|prepared grease used for softening and waterproofing leather.|
