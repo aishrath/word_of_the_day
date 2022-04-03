@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|dubbin|prepared grease used for softening and waterproofing leather.|
+|darts|an indoor game in which small pointed missiles with feather or plastic flights are thrown at a circular target marked with numbers in order to score points|
