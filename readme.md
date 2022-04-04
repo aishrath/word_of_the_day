@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mansuetude|meekness; gentleness.|
+|vanpool|an arrangement whereby commuters travel together in a van.|
