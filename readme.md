@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|vanpool|an arrangement whereby commuters travel together in a van.|
+|parched|dried out with heat|
