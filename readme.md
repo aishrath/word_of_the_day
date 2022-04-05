@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|parched|dried out with heat|
+|resolute|admirably purposeful, determined, and unwavering|
