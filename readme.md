@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cost|(of an object or action) require the payment of (a specified sum of money) before it can be acquired or done|
+|boarder|a person who receives regular meals when staying somewhere, in return for payment or services.|
