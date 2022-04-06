@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|resolute|admirably purposeful, determined, and unwavering|
+|cost|(of an object or action) require the payment of (a specified sum of money) before it can be acquired or done|
