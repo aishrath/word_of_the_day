@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|knackered|very tired; exhausted|
+|crackle|make a rapid succession of slight cracking noises|
