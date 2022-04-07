@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|boarder|a person who receives regular meals when staying somewhere, in return for payment or services.|
+|knackered|very tired; exhausted|
