@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|touched|feeling gratitude or sympathy; moved|
+|commendable|deserving praise|
