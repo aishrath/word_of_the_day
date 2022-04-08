@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|crackle|make a rapid succession of slight cracking noises|
+|touched|feeling gratitude or sympathy; moved|
