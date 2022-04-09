@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|simpering|affectedly coy or ingratiating|
+|mikvah|a bath in which certain jewish ritual purifications are performed.|
