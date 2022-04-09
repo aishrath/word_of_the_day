@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|commendable|deserving praise|
+|simpering|affectedly coy or ingratiating|
