@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|mikvah|a bath in which certain jewish ritual purifications are performed.|
+|turfman|a devotee of horse racing, especially one who owns or trains horses.|
