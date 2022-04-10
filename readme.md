@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|turfman|a devotee of horse racing, especially one who owns or trains horses.|
+|biolysis|the chemical decomposition of organic matter by the action of bacteria, especially as used in the treatment of sewage.|
