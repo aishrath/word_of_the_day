@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|nullity|an act or thing that is legally void.|
+|tubing|a length or lengths of metal, plastic, glass, etc., in tubular form|
