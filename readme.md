@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|feral|(especially of an animal) in a wild state, especially after escape from captivity or domestication|
+|designatory|that designates; of or relating to designation.|
