@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|tubing|a length or lengths of metal, plastic, glass, etc., in tubular form|
+|feral|(especially of an animal) in a wild state, especially after escape from captivity or domestication|
