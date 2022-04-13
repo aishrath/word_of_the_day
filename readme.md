@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|geometrics|straight lines and simple geometric shapes, e.g., circles and squares, used together to form a design or pattern|
+|cyprinid|a fish of the minnow (or carp) family (cyprinidae).|
