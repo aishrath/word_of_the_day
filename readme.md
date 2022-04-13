@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|designatory|that designates; of or relating to designation.|
+|geometrics|straight lines and simple geometric shapes, e.g., circles and squares, used together to form a design or pattern|
