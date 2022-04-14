@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|reindeer|a deer of the tundra and subarctic regions of eurasia and north america, both sexes of which have large branching antlers. most eurasian reindeer are domesticated and used for drawing sleds and as a source of milk, flesh, and hide.|
+|cycloaddition|an addition reaction in which a cyclic molecule is formed.|
