@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|procarp|in certain red algae: a compact female reproductive structure consisting of one or more carpogonial branches with associated supporting and auxiliary cells.|
+|ecocidal|destructive of the environment, especially when intentional or reckless.|
