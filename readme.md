@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|cycloaddition|an addition reaction in which a cyclic molecule is formed.|
+|procarp|in certain red algae: a compact female reproductive structure consisting of one or more carpogonial branches with associated supporting and auxiliary cells.|
