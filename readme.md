@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ecocidal|destructive of the environment, especially when intentional or reckless.|
+|scimitar|a short sword with a curved blade that broadens toward the point, used originally in eastern countries.|
