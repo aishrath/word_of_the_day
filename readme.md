@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|scimitar|a short sword with a curved blade that broadens toward the point, used originally in eastern countries.|
+|laminitis|inflammation of sensitive layers of tissue (laminae) inside the hoof in horses and other animals. it is particularly prevalent in ponies feeding on rich spring grass and can cause extreme lameness.|
