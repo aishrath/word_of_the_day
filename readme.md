@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|laminitis|inflammation of sensitive layers of tissue (laminae) inside the hoof in horses and other animals. it is particularly prevalent in ponies feeding on rich spring grass and can cause extreme lameness.|
+|stickpin|a straight pin with an ornamental head, worn to keep a tie in place or as a brooch.|
