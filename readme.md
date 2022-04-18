@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|polysomic|having one or more normal chromosomes in addition to the usual diploid or polyploid complement; involving or designating such a chromosome.|
+|ordinary|with no special or distinctive features; normal|
