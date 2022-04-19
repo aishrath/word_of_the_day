@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|parabiosis|the anatomical joining of two individuals, especially artificially in physiological research.|
+|supersede|take the place of (a person or thing previously in authority or use); supplant|
