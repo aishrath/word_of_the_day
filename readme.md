@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ordinary|with no special or distinctive features; normal|
+|parabiosis|the anatomical joining of two individuals, especially artificially in physiological research.|
