@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|literator|a person engaged in literary pursuits; a writer; = "littérateur".|
+|subterraneanly|below the surface of the ground. also figurative: secretly, clandestinely.|
