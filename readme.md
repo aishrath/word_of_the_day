@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|supersede|take the place of (a person or thing previously in authority or use); supplant|
+|literator|a person engaged in literary pursuits; a writer; = "littérateur".|
