@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|subterraneanly|below the surface of the ground. also figurative: secretly, clandestinely.|
+|colleen|an irish term for a girl or young woman.|
