@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|forget|fail to remember|
+|fleshly|relating to human desire or bodily appetites; sensual|
