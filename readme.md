@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|unmasked|not wearing a mask|
+|quacky|inclined to or characterized by quackery.|
