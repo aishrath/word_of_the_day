@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|fleshly|relating to human desire or bodily appetites; sensual|
+|unmasked|not wearing a mask|
