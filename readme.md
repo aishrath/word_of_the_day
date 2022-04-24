@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|quacky|inclined to or characterized by quackery.|
+|empathic|showing an ability to understand and share the feelings of another|
