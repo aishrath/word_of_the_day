@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|trocar|a surgical instrument with a three-sided cutting point enclosed in a tube, used for withdrawing fluid from a body cavity.|
+|slander|the action or crime of making a false spoken statement damaging to a person's reputation|
