@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|jewelry|personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal|
+|shea|a small tropical african tree which bears oily nuts from which shea butter is obtained.|
