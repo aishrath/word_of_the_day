@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|prepossess|to cause (a person) to be preoccupied with or by a feeling, notion, etc.; to preoccupy with or by; to imbue, inspire, or affect strongly beforehand.|
+|jewelry|personal ornaments, such as necklaces, rings, or bracelets, that are typically made from or contain jewels and precious metal|
