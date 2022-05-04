@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|operculated|= "operculate".|
+|repentance|the action of repenting; sincere regret or remorse|
