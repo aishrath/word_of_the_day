@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|shea|a small tropical african tree which bears oily nuts from which shea butter is obtained.|
+|operculated|= "operculate".|
