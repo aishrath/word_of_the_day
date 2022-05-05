@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|repentance|the action of repenting; sincere regret or remorse|
+|till|up to (the point in time or the event mentioned); until|
