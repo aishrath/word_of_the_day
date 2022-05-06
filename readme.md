@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|miscarry|(of a pregnant woman) have a miscarriage|
+|ineffective|not producing any significant or desired effect|
