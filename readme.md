@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|ineffective|not producing any significant or desired effect|
+|evocation|the act of bringing or recalling a feeling, memory, or image to the conscious mind|
