@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|evocation|the act of bringing or recalling a feeling, memory, or image to the conscious mind|
+|holocene|relating to or denoting the present epoch, which is the second epoch in the quaternary period and followed the pleistocene|
