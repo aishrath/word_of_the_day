@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|gloomy|dark or poorly lit, especially so as to appear depressing or frightening|
+|slobbering|the condition of having saliva dripping from the mouth|
