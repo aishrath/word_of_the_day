@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|slobbering|the condition of having saliva dripping from the mouth|
+|substandard|below the usual or required standard|
