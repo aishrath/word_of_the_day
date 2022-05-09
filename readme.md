@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|substandard|below the usual or required standard|
+|telltale|revealing, indicating, or betraying something|
