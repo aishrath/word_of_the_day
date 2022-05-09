@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|telltale|revealing, indicating, or betraying something|
+|adjunct|a thing added to something else as a supplementary rather than an essential part|
