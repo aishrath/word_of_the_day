@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|exceeding|very great|
+|brunette|a person with dark brown hair (typically used of a woman)|
