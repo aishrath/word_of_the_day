@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|triplex|a building divided into three self-contained residences.|
+|isotropic|(of an object or substance) having a physical property which has the same value when measured in different directions.|
