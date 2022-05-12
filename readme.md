@@ -2,4 +2,4 @@
 
 |Word|Definition|
 |---|---|
-|postlapsarian|occurring or existing after the fall of man.|
+|encapsulate|express the essential features of (something) succinctly|
